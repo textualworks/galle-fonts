@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name=".notdef" format="1">
-	<advance width="663"/>
+<glyph name=".notdef" format="2">
+	<advance width="540"/>
 	<outline>
 		<contour>
-			<point x="597" y="0" type="line"/>
-			<point x="597" y="590" type="line"/>
-			<point x="66" y="590" type="line"/>
-			<point x="66" y="0" type="line"/>
+			<point x="486" y="0" type="line"/>
+			<point x="486" y="480" type="line"/>
+			<point x="54" y="480" type="line"/>
+			<point x="54" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="133" y="524" type="line"/>
-			<point x="531" y="524" type="line"/>
-			<point x="531" y="66" type="line"/>
-			<point x="133" y="66" type="line"/>
+			<point x="108" y="426" type="line"/>
+			<point x="432" y="426" type="line"/>
+			<point x="432" y="54" type="line"/>
+			<point x="108" y="54" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -51,7 +51,7 @@
 				</array>
 			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 11:28:50 +0000</string>
+			<string>2017-02-17 11:21:56 +0000</string>
 		</dict>
 	</lib>
 </glyph>

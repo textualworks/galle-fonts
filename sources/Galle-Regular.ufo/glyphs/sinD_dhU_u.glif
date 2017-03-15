@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinDdhUu" format="1">
-	<advance width="266"/>
+<glyph name="sinDdhUu" format="2">
+	<advance width="216"/>
+	<outline>
+	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 11:28:50 +0000</string>
+			<string>2017-02-17 11:21:56 +0000</string>
 		</dict>
 	</lib>
 </glyph>
