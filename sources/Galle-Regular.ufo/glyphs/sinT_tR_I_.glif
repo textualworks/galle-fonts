@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinTtRI" format="2">
-	<advance width="266"/>
+<glyph name="sinTtRI" format="1">
+	<advance width="568"/>
 	<outline>
+		<component base="sinRakar" xOffset="520"/>
+		<component base="sinTtI"/>
 	</outline>
 	<lib>
 		<dict>

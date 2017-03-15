@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraI" format="2">
-	<advance width="3"/>
+<glyph name="sinMatraI" format="1">
 	<unicode hex="0DD2"/>
+	<advance width="3"/>
 	<outline>
 		<contour>
 			<point x="-191" y="541"/>

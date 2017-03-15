@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinOs" format="2">
-	<advance width="717"/>
+<glyph name="sinOs" format="1">
 	<unicode hex="0D94"/>
+	<advance width="717"/>
 	<outline>
 		<contour>
 			<point x="277" y="0"/>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNTh.virama" format="2">
+<glyph name="sinNTh.virama" format="1">
 	<advance width="266"/>
-	<outline>
-	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

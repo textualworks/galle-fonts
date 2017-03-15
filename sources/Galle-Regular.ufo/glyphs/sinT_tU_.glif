@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinTtU" format="2">
-	<advance width="266"/>
+<glyph name="sinTtU" format="1">
+	<advance width="622"/>
 	<outline>
+		<component base="sinMatraU" xOffset="550"/>
+		<component base="sinTta"/>
 	</outline>
 	<lib>
 		<dict>

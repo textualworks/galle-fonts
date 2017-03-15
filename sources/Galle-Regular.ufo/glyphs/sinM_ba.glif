@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMba" format="2">
-	<advance width="717"/>
+<glyph name="sinMba" format="1">
 	<unicode hex="0DB9"/>
+	<advance width="717"/>
 	<outline>
 		<contour>
 			<point x="293" y="0"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNda" format="2">
-	<advance width="677"/>
+<glyph name="sinNda" format="1">
 	<unicode hex="0DB3"/>
+	<advance width="677"/>
 	<outline>
 		<contour>
 			<point x="644" y="-355"/>

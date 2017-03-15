@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinShIi" format="2">
-	<advance width="266"/>
+<glyph name="sinShIi" format="1">
+	<advance width="750"/>
 	<outline>
+		<component base="sinMatraIi" xOffset="675" yOffset="-113"/>
+		<component base="sinSha"/>
 	</outline>
 	<lib>
 		<dict>

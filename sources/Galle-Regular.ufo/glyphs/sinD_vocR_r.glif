@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinDvocRr" format="2">
-	<advance width="266"/>
+<glyph name="sinDvocRr" format="1">
+	<advance width="545"/>
 	<outline>
+		<component base="sinDa"/>
 	</outline>
 	<lib>
 		<dict>
