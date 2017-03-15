@@ -1,63 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>750</integer>
-	<key>capHeight</key>
-	<integer>0</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2016 Janaka CB Attanayake (janakacb@gmail.com)  Copyright (c) 2017 mooniak (http://mooniak.com) 
+  <dict>
+    <key>familyName</key>
+    <string>Galle</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2016 Janaka CB Attanayake (janakacb@gmail.com)  Copyright (c) 2017 mooniak (http://mooniak.com) 
 </string>
-	<key>descender</key>
-	<integer>-250</integer>
-	<key>familyName</key>
-	<string>Galle</string>
-	<key>openTypeHeadCreated</key>
-	<string>2017/02/17 16:10:55</string>
-	<key>openTypeNameLicense</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Galle</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		<integer>-5</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>5</integer>
-		<integer>5</integer>
-		<integer>270</integer>
-		<integer>275</integer>
-	</array>
-	<key>postscriptFontName</key>
-	<string>Gall</string>
-	<key>postscriptFullName</key>
-	<string>Galle</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-95</integer>
-		<integer>-90</integer>
-	</array>
-	<key>styleMapFamilyName</key>
-	<string>Galle</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>0</integer>
-	<key>versionMinor</key>
-	<integer>1</integer>
-	<key>xHeight</key>
-	<integer>500</integer>
-</dict>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>xHeight</key>
+    <integer>500</integer>
+    <key>ascender</key>
+    <integer>750</integer>
+    <key>descender</key>
+    <integer>-250</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string></string>
+    <key>openTypeHeadCreated</key>
+    <string>2017/03/15 10:32:24</string>
+    <key>openTypeHheaAscender</key>
+    <integer>720</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-288</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.001</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Galle</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string></string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>750</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>720</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>288</integer>
+    <key>postscriptFontName</key>
+    <string>Gall</string>
+    <key>postscriptFullName</key>
+    <string>Galle</string>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>0</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>0</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-5</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>5</integer>
+      <integer>5</integer>
+      <integer>270</integer>
+      <integer>275</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-95</integer>
+      <integer>-90</integer>
+    </array>
+  </dict>
 </plist>
