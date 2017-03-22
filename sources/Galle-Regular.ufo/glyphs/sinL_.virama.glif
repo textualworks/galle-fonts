@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinL.virama" format="1">
-  <advance width="216"/>
+  <advance width="640"/>
+  <outline>
+    <component base="sinVirama" xOffset="630" yOffset="2"/>
+    <component base="sinLa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

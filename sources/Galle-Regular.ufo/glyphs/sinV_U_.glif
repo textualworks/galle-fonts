@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVU" format="1">
-  <advance width="216"/>
+  <advance width="467"/>
+  <outline>
+    <component base="sinMatraU" xOffset="440"/>
+    <component base="sinVa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

@@ -2,7 +2,7 @@
 <glyph name="sinNU" format="1">
   <advance width="695"/>
   <outline>
-    <component base="sinMatraU.alt1" xOffset="640"/>
+    <component base="sinMatraU.alt3" xOffset="650"/>
     <component base="sinNa"/>
   </outline>
   <lib>

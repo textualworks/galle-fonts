@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinFRa" format="1">
-  <advance width="216"/>
+  <advance width="622"/>
+  <outline>
+    <component base="sinRakar.medium" xOffset="578" yOffset="-12"/>
+    <component base="sinFa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

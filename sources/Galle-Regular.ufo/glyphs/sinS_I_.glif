@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSI" format="1">
-  <advance width="216"/>
+  <advance width="628"/>
+  <outline>
+    <component base="sinMatraI.alt2" xOffset="560" yOffset="86"/>
+    <component base="sinSa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

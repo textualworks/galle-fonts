@@ -6,6 +6,8 @@
     <string>Galle</string>
     <key>styleName</key>
     <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>Galle Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
@@ -28,7 +30,7 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2017/03/15 10:32:24</string>
+    <string>2017/03/16 15:47:48</string>
     <key>openTypeHheaAscender</key>
     <integer>720</integer>
     <key>openTypeHheaDescender</key>
@@ -48,7 +50,7 @@
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2VendorID</key>
-    <string></string>
+    <string>    </string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>0</integer>

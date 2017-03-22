@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTU" format="1">
-  <advance width="216"/>
+  <advance width="633"/>
+  <outline>
+    <component base="sinMatraU.alt" xOffset="660" yOffset="30"/>
+    <component base="sinTa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

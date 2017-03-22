@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinShU" format="1">
-  <advance width="216"/>
+  <advance width="610"/>
+  <outline>
+    <component base="sinMatraU.alt" xOffset="641" yOffset="40"/>
+    <component base="sinSha"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

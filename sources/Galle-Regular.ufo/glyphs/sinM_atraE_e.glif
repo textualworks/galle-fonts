@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraEe" format="1">
-  <advance width="216"/>
+  <advance width="731"/>
   <unicode hex="0DDA"/>
+  <outline>
+    <component base="sinVirama" xOffset="730"/>
+    <component base="sinMatraE"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

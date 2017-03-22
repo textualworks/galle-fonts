@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNnddU" format="1">
-  <advance width="216"/>
+  <advance width="705"/>
+  <outline>
+    <component base="sinMatraU.alt3" xOffset="670"/>
+    <component base="sinNndda"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

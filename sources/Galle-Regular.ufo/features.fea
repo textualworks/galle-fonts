@@ -533,8 +533,7 @@ feature ss01 {
 	\sinRakar.long \sinRakar.medium \sinRakar.short \sinSa \sinSha \sinSsRI 
 	\sinSsRIi \sinSsa \sinTa \sinTha \sinTta \sinTtha \sinU \sinUu \sinVa \sinVirama 
 	\sinVisarga \sinYa \singNaa \sinkundaliya \sinvocalicL \sinvocalicLL 
-	\sinvocalicR \sinvocalicRr \space \zerowidthjoiner \glyph525 \glyph526 
-	\glyph527 \glyph528 \glyph529 ];
+	\sinvocalicR \sinvocalicRr \space \zerowidthjoiner ];
 @GDEF_Ligature = [\sinB.virama \sinBI \sinBIi \sinBR.virama \sinBRI \sinBRIi 
 	\sinBRa \sinBU \sinBUu \sinBh.virama \sinBhI \sinBhIi \sinBhRI \sinBhRIi 
 	\sinBhRa \sinBhRa.virama \sinBhU \sinBhUu \sinC.virama \sinCI \sinCIi 

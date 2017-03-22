@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinKhRIi" format="1">
-  <advance width="216"/>
+  <advance width="573"/>
+  <outline>
+    <component base="sinRakar" xOffset="524" yOffset="-8"/>
+    <component base="sinKhIi"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

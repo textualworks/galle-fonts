@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBhIi" format="1">
-  <advance width="216"/>
+  <advance width="647"/>
+  <outline>
+    <component base="sinMatraIi.alt2" xOffset="580" yOffset="144"/>
+    <component base="sinBha"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

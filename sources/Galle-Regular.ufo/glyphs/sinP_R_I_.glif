@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPRI" format="1">
-  <advance width="216"/>
+  <advance width="515"/>
+  <outline>
+    <component base="sinMatraI.alt" xOffset="458" yOffset="74"/>
+    <component base="sinRakar.short" xOffset="470" yOffset="18"/>
+    <component base="sinPa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>

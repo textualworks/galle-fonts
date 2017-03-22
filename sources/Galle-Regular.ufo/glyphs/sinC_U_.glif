@@ -107,6 +107,7 @@
       <point x="381" y="-9"/>
       <point x="455" y="122"/>
     </contour>
+    <component base="sinMatraU" xOffset="440"/>
   </outline>
   <lib>
     <dict>

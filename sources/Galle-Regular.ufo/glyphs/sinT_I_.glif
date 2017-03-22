@@ -2,8 +2,8 @@
 <glyph name="sinTI" format="1">
   <advance width="633"/>
   <outline>
+    <component base="sinMatraI.alt2" xOffset="596" yOffset="36"/>
     <component base="sinTa"/>
-    <component base="sinMatraI" xOffset="350" yOffset="45"/>
   </outline>
   <lib>
     <dict>

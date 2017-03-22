@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinKI" format="1">
-  <advance width="216"/>
+  <advance width="650"/>
+  <outline>
+    <component base="sinMatraI.alt2" xOffset="606" yOffset="86"/>
+    <component base="sinKa"/>
+  </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
