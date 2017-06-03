@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinThIi" format="1">
-	<advance width="469"/>
-	<outline>
-		<component base="sinMatraIi.alt" xOffset="404" yOffset="236"/>
-		<component base="sinTha"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 11:21:56 +0000</string>
-		</dict>
-	</lib>
+  <advance width="469"/>
+  <outline>
+    <component base="sinMatraIi.alt" xOffset="404" yOffset="236"/>
+    <component base="sinTha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-17 11:21:56 +0000</string>
+    </dict>
+  </lib>
 </glyph>

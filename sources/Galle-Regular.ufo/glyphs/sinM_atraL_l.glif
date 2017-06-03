@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraLl" format="1">
-	<unicode hex="0DF3"/>
-	<advance width="216"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-15 10:04:59 +0000</string>
-		</dict>
-	</lib>
+  <advance width="216"/>
+  <unicode hex="0DF3"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-15 10:04:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

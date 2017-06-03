@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraOo" format="1">
-	<unicode hex="0DDD"/>
-	<advance width="750"/>
-	<outline>
-		<component base="sinVirama" xOffset="803"/>
-		<component base="sinMatraAa" xOffset="550"/>
-		<component base="sinMatraE"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-15 10:03:56 +0000</string>
-		</dict>
-	</lib>
+  <advance width="750"/>
+  <unicode hex="0DDD"/>
+  <outline>
+    <component base="sinVirama" xOffset="803"/>
+    <component base="sinMatraAa" xOffset="550"/>
+    <component base="sinMatraE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-15 10:03:56 +0000</string>
+    </dict>
+  </lib>
 </glyph>
