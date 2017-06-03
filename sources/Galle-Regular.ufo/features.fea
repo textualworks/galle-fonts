@@ -1,9 +1,6 @@
+# Prefix: Prefix
 languagesystem sinh dflt;
-
-
 # GSUB 
-
-
 lookup sin_akhands {
   lookupflag 0;
     sub \sinDa \sinVirama \zerowidthjoiner \sinDha  by \sinDDha;
@@ -458,21 +455,18 @@ lookup ss_01 {
 } ss_01;
 
 feature akhn {
-
  script sinh;
      language dflt ;
       lookup sin_akhands;
 } akhn;
 
 feature rphf {
-
  script sinh;
      language dflt ;
       lookup sin_reph;
 } rphf;
 
 feature vatu {
-
  script sinh;
      language dflt ;
       lookup sin_yansaya;
@@ -480,14 +474,12 @@ feature vatu {
 } vatu;
 
 feature pstf {
-
  script sinh;
      language dflt ;
       lookup sin_split_matra;
 } pstf;
 
 feature abvs {
-
  script sinh;
      language dflt ;
       lookup sin_abvs;
@@ -497,102 +489,20 @@ feature abvs {
 } abvs;
 
 feature blws {
-
  script sinh;
      language dflt ;
       lookup sin_blws;
 } blws;
 
 feature psts {
-
  script sinh;
      language dflt ;
       lookup sin_raer;
 } psts;
 
 feature ss01 {
-
  script sinh;
      language dflt ;
       lookup ss_01;
 } ss01;
-
-@GDEF_Simple = [\.null \CR \anusvara \sinA \sinAa \sinAae \sinAe \sinAi \sinAnusvara 
-	\sinAu \sinBa \sinBha \sinCa \sinCha \sinDa \sinDda \sinDda.virama \sinDdha 
-	\sinDha \sinDrI \sinDrIi \sinDra \sinE \sinEe \sinFRI \sinFRIi \sinFa \sinGa 
-	\sinGha \sinHa \sinI \sinIi \sinJa \sinJha \sinJnya \sinKAa \sinKa \sinKha 
-	\sinKundaliya \sinLa \sinLla \sinMa \sinMatraAa \sinMatraAae \sinMatraAe 
-	\sinMatraAi \sinMatraAu \sinMatraE \sinMatraEe \sinMatraI \sinMatraI.alt 
-	\sinMatraI.alt1 \sinMatraI.alt2 \sinMatraI.alt3 \sinMatraIi \sinMatraIi.alt 
-	\sinMatraIi.alt1 \sinMatraIi.alt2 \sinMatraIi.alt3 \sinMatraLl \sinMatraLs 
-	\sinMatraO \sinMatraOo \sinMatraR \sinMatraRr \sinMatraU \sinMatraU.alt 
-	\sinMatraU.alt1 \sinMatraU.alt2 \sinMatraU.alt3 \sinMatraUu \sinMatraUu.alt 
-	\sinMatraUu.alt1 \sinMatraUu.alt2 \sinMatraUu.alt3 \sinMb \sinMba \sinNDRI 
-	\sinNDRIi \sinNa \sinNdRa \sinNda \sinNdda \sinNdja \sinNga \sinNna \sinNndda 
-	\sinNnga \sinNyAa \sinNya \sinO \sinOo \sinOs \sinPa \sinPha \sinRa \sinRakar 
-	\sinRakar.long \sinRakar.medium \sinRakar.short \sinSa \sinSha \sinSsRI 
-	\sinSsRIi \sinSsa \sinTa \sinTha \sinTta \sinTtha \sinU \sinUu \sinVa \sinVirama 
-	\sinVisarga \sinYa \singNaa \sinkundaliya \sinvocalicL \sinvocalicLL 
-	\sinvocalicR \sinvocalicRr \space \zerowidthjoiner ];
-@GDEF_Ligature = [\sinB.virama \sinBI \sinBIi \sinBR.virama \sinBRI \sinBRIi 
-	\sinBRa \sinBU \sinBUu \sinBh.virama \sinBhI \sinBhIi \sinBhRI \sinBhRIi 
-	\sinBhRa \sinBhRa.virama \sinBhU \sinBhUu \sinC.virama \sinCI \sinCIi 
-	\sinCR.virama \sinCRI \sinCRIi \sinCRa \sinCU \sinCUu \sinCh.virama \sinChI 
-	\sinChIi \sinChU \sinChUu \sinD.virama \sinDAa.ss01 \sinDAa.virama.ss01 
-	\sinDAae.ss01 \sinDAe.ss01 \sinDDdh.virama \sinDDhI \sinDDhIi \sinDDhU 
-	\sinDDhUu \sinDDha \sinDI \sinDIi \sinDR.virama \sinDRI \sinDRIi \sinDRa \sinDU 
-	\sinDUu \sinDV.virama \sinDVI \sinDVIi \sinDVU \sinDVUu \sinDVa 
-	\sinDYAa.post.ss01 \sinDYOo.post.ss01 \sinDYUu.post.ss01 \sinDYa.post.ss01 
-	\sinDYu.post.ss01 \sinDd.virama \sinDdI \sinDdIi \sinDdR.virama \sinDdRI 
-	\sinDdRIi \sinDdRa \sinDdU \sinDdUu \sinDdh.virama \sinDdhI \sinDdhIi \sinDdhU 
-	\sinDdhUu \sinDh.virama \sinDhI \sinDhIi \sinDhR.virama \sinDhRI \sinDhRIi 
-	\sinDhRa \sinDhU \sinDhUu \sinDvocR \sinDvocRr \sinF.virama \sinFI \sinFIi 
-	\sinFR.virama \sinFRa \sinFU \sinFUu \sinG.virama \sinGDha \sinGI \sinGIi 
-	\sinGR.virama \sinGRI \sinGRIi \sinGRa \sinGU \sinGUu \sinGh.virama \sinGhI 
-	\sinGhIi \sinGhR.virama \sinGhRI \sinGhRIi \sinGhRa \sinGhU \sinGhUu 
-	\sinH.virama \sinHI \sinHIi \sinHR.virama \sinHRI \sinHRIi \sinHRa \sinHU 
-	\sinHUu \sinJ.virama \sinJI \sinJIi \sinJR.virama \sinJRI \sinJRIi \sinJRa 
-	\sinJU \sinJUu \sinJh.virama \sinJhI \sinJhIi \sinJhR.virama \sinJhRI \sinJhRIi 
-	\sinJhRa \sinJhU \sinJhUu \sinJny.virama \sinJnyAa.ss01 \sinJnyAa.virama.ss01 
-	\sinJnyAe.ss01 \sinJnyAee.ss01 \sinJnyI \sinJnyIi \sinJnyR.virama \sinJnyRI 
-	\sinJnyRIi \sinJnyRa \sinJnyU \sinJnyUu \sinK.virama \sinKI \sinKIi \sinKRI 
-	\sinKRIi \sinKRa \sinKSs.virama \sinKSsI \sinKSsIi \sinKSsU \sinKSsUu \sinKSsa 
-	\sinKU \sinKUu \sinKV.virama \sinKVI \sinKVIi \sinKVU \sinKVUu \sinKVa 
-	\sinKh.virama \sinKhI \sinKhIi \sinKhR.virama \sinKhRI \sinKhRIi \sinKhRa 
-	\sinKhU \sinKhUu \sinL.virama \sinLI \sinLIi \sinLU \sinLUu \sinLl.virama 
-	\sinLlI \sinLlIi \sinLlU \sinLlUu \sinM.virama \sinMI \sinMIi \sinMR.virama 
-	\sinMRI \sinMRIi \sinMRa \sinMU \sinMUu \sinMatraAa.virama \sinMb.virama 
-	\sinMbI \sinMbIi \sinMbU \sinMbUu \sinN.virama \sinND.virama \sinNDAa.ss01 
-	\sinNDAa.virama.ss01 \sinNDAe.ss01 \sinNDAee.ss01 \sinNDI \sinNDIi \sinNDRa 
-	\sinNDU \sinNDUu \sinNDa \sinNDh.virama \sinNDhI \sinNDhIi \sinNDhU \sinNDhUu 
-	\sinNDha \sinNI \sinNIi \sinNTh.virama \sinNThI \sinNThIi \sinNThU \sinNThUu 
-	\sinNTha \sinNU \sinNUu \sinNV.virama \sinNVI \sinNVIi \sinNVU \sinNVUu \sinNVa 
-	\sinNd.virama \sinNdAa.ss01 \sinNdAa.virama.ss01 \sinNdAae.ss01 
-	\sinNdAe.ss01 \sinNdI \sinNdIi \sinNdU \sinNdUu \sinNdj.virama \sinNdjI 
-	\sinNdjIi \sinNdjR.virama \sinNdjRa \sinNdjU \sinNdjUu \sinNg.virama \sinNgI 
-	\sinNgIi \sinNn.virama \sinNnI \sinNnIi \sinNnU \sinNnUu \sinNndd.virama 
-	\sinNnddI \sinNnddIi \sinNnddU \sinNnddUu \sinNng.virama \sinNngI \sinNngIi 
-	\sinNngU \sinNngUu \sinNy.virama \sinNyAa.ss01 \sinNyAa.virama.ss01 
-	\sinNyAe.ss01 \sinNyAee.ss01 \sinNyI \sinNyIi \sinNyR.virama \sinNyRI 
-	\sinNyRIi \sinNyRa \sinNyU \sinNyUu \sinP.virama \sinPI \sinPIi \sinPR.virama 
-	\sinPRI \sinPRIi \sinPRa \sinPU \sinPUu \sinPh.virama \sinPhI \sinPhIi \sinPhU 
-	\sinPhUu \sinR.virama \sinRAae \sinRAe \sinRI \sinRIi \sinRU \sinRUu \sinReph 
-	\sinS.virama \sinSI \sinSIi \sinSR.virama \sinSRI \sinSRIi \sinSRa \sinSU 
-	\sinSUu \sinSh.virama \sinShI \sinShIi \sinShR.virama \sinShRI \sinShRIi 
-	\sinShRa \sinShU \sinShUu \sinSs.virama \sinSsI \sinSsIi \sinSsR.virama 
-	\sinSsRa \sinSsU \sinSsUu \sinT.virama \sinTI \sinTIi \sinTR.virama \sinTRI 
-	\sinTRIi \sinTRa \sinTTh.virama \sinTThI \sinTThIi \sinTThU \sinTThUu \sinTTha 
-	\sinTU \sinTUu \sinTV.virama \sinTVI \sinTVIi \sinTVU \sinTVUu \sinTVa 
-	\sinTh.virama \sinThI \sinThIi \sinThU \sinThUu \sinTt.virama \sinTtI \sinTtIi 
-	\sinTtR.virama \sinTtRI \sinTtRIi \sinTtRa \sinTtTth.virama \sinTtTthI 
-	\sinTtTthIi \sinTtTthU \sinTtTthUu \sinTtTtha \sinTtU \sinTtUu \sinTth.virama 
-	\sinTthI \sinTthIi \sinTthU \sinTthUu \sinV.virama \sinVI \sinVIi \sinVR.virama 
-	\sinVRI \sinVRIi \sinVRa \sinVU \sinVUu \sinY.post.virama \sinY.virama \sinYI 
-	\sinYI.post \sinYIi \sinYIi.post \sinYU \sinYU.post \sinYUu \sinYUu.post 
-	\sinYa.post ];
-
-table GDEF {
-  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
-
-} GDEF;
 

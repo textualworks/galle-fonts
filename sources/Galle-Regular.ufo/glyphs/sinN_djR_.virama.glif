@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNdjR.virama" format="1">
-  <advance width="624"/>
-  <outline>
-    <contour>
-      <point x="386" y="528" type="line"/>
-      <point x="386" y="605" type="line"/>
-      <point x="394" y="603"/>
-      <point x="402" y="602"/>
-      <point x="409" y="602" type="curve" smooth="yes"/>
-      <point x="438" y="602"/>
-      <point x="457" y="622"/>
-      <point x="457" y="641" type="curve" smooth="yes"/>
-      <point x="457" y="691"/>
-      <point x="386" y="700"/>
-      <point x="386" y="744" type="curve" smooth="yes"/>
-      <point x="386" y="760"/>
-      <point x="377" y="768"/>
-      <point x="368" y="768" type="curve" smooth="yes"/>
-      <point x="359" y="768"/>
-      <point x="350" y="760"/>
-      <point x="350" y="747" type="curve" smooth="yes"/>
-      <point x="350" y="528" type="line"/>
-    </contour>
-    <contour>
-      <point x="386" y="632" type="curve"/>
-      <point x="386" y="696" type="line"/>
-      <point x="394" y="684"/>
-      <point x="421" y="669"/>
-      <point x="421" y="650" type="curve" smooth="yes"/>
-      <point x="421" y="644"/>
-      <point x="417" y="630"/>
-      <point x="399" y="630" type="curve" smooth="yes"/>
-      <point x="395" y="630"/>
-      <point x="392" y="631"/>
-    </contour>
-    <component base="sinRakar.medium" xOffset="603"/>
-    <component base="sinNdja"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-17 11:21:56 +0000</string>
-    </dict>
-  </lib>
+	<advance width="624"/>
+	<outline>
+		<contour>
+			<point x="386" y="528" type="line"/>
+			<point x="386" y="605" type="line"/>
+			<point x="394" y="603"/>
+			<point x="402" y="602"/>
+			<point x="409" y="602" type="curve" smooth="yes"/>
+			<point x="438" y="602"/>
+			<point x="457" y="622"/>
+			<point x="457" y="641" type="curve" smooth="yes"/>
+			<point x="457" y="691"/>
+			<point x="386" y="700"/>
+			<point x="386" y="744" type="curve" smooth="yes"/>
+			<point x="386" y="760"/>
+			<point x="377" y="768"/>
+			<point x="368" y="768" type="curve" smooth="yes"/>
+			<point x="359" y="768"/>
+			<point x="350" y="760"/>
+			<point x="350" y="747" type="curve" smooth="yes"/>
+			<point x="350" y="528" type="line"/>
+		</contour>
+		<contour>
+			<point x="386" y="632" type="curve"/>
+			<point x="386" y="696" type="line"/>
+			<point x="394" y="684"/>
+			<point x="421" y="669"/>
+			<point x="421" y="650" type="curve" smooth="yes"/>
+			<point x="421" y="644"/>
+			<point x="417" y="630"/>
+			<point x="399" y="630" type="curve" smooth="yes"/>
+			<point x="395" y="630"/>
+			<point x="392" y="631"/>
+		</contour>
+		<component base="sinRakar.medium" xOffset="603"/>
+		<component base="sinNdja"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-17 11:21:56 +0000</string>
+		</dict>
+	</lib>
 </glyph>
