@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="2">
+	<unicode hex="0027"/>
+	<advance width="117"/>
+	<outline>
+		<contour>
+			<point x="90" y="810" type="curve" smooth="yes"/>
+			<point x="90" y="779"/>
+			<point x="75" y="757"/>
+			<point x="58" y="739" type="curve"/>
+			<point x="42" y="758"/>
+			<point x="26" y="779"/>
+			<point x="26" y="810" type="curve" smooth="yes"/>
+			<point x="26" y="828"/>
+			<point x="40" y="844"/>
+			<point x="58" y="844" type="curve" smooth="yes"/>
+			<point x="76" y="844"/>
+			<point x="90" y="828"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>785</integer>
+						<key>width</key>
+						<integer>29</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>22</integer>
+						<key>width</key>
+						<integer>58</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-04-16 03:37:24 +0000</string>
+		</dict>
+	</lib>
+</glyph>

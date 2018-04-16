@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBha" format="2">
-	<advance width="795"/>
 	<unicode hex="0DB7"/>
+	<advance width="795"/>
 	<outline>
 		<contour>
 			<point x="674" y="0"/>

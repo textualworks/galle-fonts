@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LithZero" format="2">
+	<unicode hex="0DE6"/>
+	<advance width="532"/>
+	<outline>
+		<contour>
+			<point x="189" y="0" type="line"/>
+			<point x="238" y="0" type="line"/>
+			<point x="238" y="157" type="line"/>
+			<point x="259" y="142"/>
+			<point x="285" y="131"/>
+			<point x="327" y="131" type="curve" smooth="yes"/>
+			<point x="412" y="131"/>
+			<point x="473" y="206"/>
+			<point x="473" y="300" type="curve" smooth="yes"/>
+			<point x="473" y="394"/>
+			<point x="415" y="457"/>
+			<point x="330" y="457" type="curve" smooth="yes"/>
+			<point x="289" y="457"/>
+			<point x="261" y="442"/>
+			<point x="238" y="427" type="curve"/>
+			<point x="238" y="520" type="line" smooth="yes"/>
+			<point x="238" y="533"/>
+			<point x="226" y="538"/>
+			<point x="218" y="541" type="curve" smooth="yes"/>
+			<point x="128" y="572"/>
+			<point x="55" y="517"/>
+			<point x="55" y="443" type="curve" smooth="yes"/>
+			<point x="54" y="383"/>
+			<point x="104" y="339"/>
+			<point x="156" y="339" type="curve" smooth="yes"/>
+			<point x="169" y="339"/>
+			<point x="180" y="341"/>
+			<point x="189" y="344" type="curve"/>
+		</contour>
+		<contour>
+			<point x="189" y="492" type="curve"/>
+			<point x="189" y="392" type="line"/>
+			<point x="181" y="388"/>
+			<point x="171" y="385"/>
+			<point x="158" y="385" type="curve" smooth="yes"/>
+			<point x="141" y="385"/>
+			<point x="105" y="401"/>
+			<point x="105" y="438" type="curve" smooth="yes"/>
+			<point x="105" y="493"/>
+			<point x="157" y="506"/>
+		</contour>
+		<contour>
+			<point x="238" y="209" type="curve"/>
+			<point x="238" y="374" type="line"/>
+			<point x="266" y="393"/>
+			<point x="290" y="409"/>
+			<point x="329" y="409" type="curve" smooth="yes"/>
+			<point x="389" y="409"/>
+			<point x="425" y="360"/>
+			<point x="425" y="302" type="curve" smooth="yes"/>
+			<point x="425" y="236"/>
+			<point x="384" y="180"/>
+			<point x="327" y="180" type="curve" smooth="yes"/>
+			<point x="288" y="180"/>
+			<point x="262" y="191"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-04-16 03:35:34 +0000</string>
+		</dict>
+	</lib>
+</glyph>
