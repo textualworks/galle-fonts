@@ -4,6 +4,19 @@
 	<dict>
 		<key>UFOFormat</key>
 		<integer>3</integer>
+		<key>com.schriftgestaltung.DisplayStrings</key>
+		<array>
+			<string>/sinK.virama</string>
+			<string>/LithZero</string>
+			<string>/sinVirama</string>
+			<string>/sinK.virama</string>
+			<string>/sinMatraAae/sinR.virama/sinPI/sinLla/sinLlI/sinVirama/sinN.virama  
+/sinNd.virama/sinD.virama/sinSa/sinSI/sinDRa/sinT.virama 
+
+/sinLlU/sinMa/sinMU/sinRUu/sinNI/sinMa</string>
+			<string>/sinMatraAa</string>
+			<string>/ellipsis</string>
+		</array>
 		<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 		<false/>
 		<key>com.schriftgestaltung.fontMasterID</key>
@@ -14,9 +27,9 @@
 		<false/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.3.3.dev0
-1523850018.0 fontinfo.plist
-1523850018.0 layercontents.plist
-1523850018.0 metainfo.plist</string>
+1532068342.0 fontinfo.plist
+1532068342.0 layercontents.plist
+1532068342.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>sinA</string>
@@ -124,6 +137,7 @@
 			<string>comma</string>
 			<string>colon</string>
 			<string>semicolon</string>
+			<string>ellipsis</string>
 			<string>exclam</string>
 			<string>question</string>
 			<string>asterisk</string>
