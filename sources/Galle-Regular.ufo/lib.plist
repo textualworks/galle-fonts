@@ -2,20 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>UFOFormat</key>
-		<integer>3</integer>
 		<key>com.schriftgestaltung.DisplayStrings</key>
 		<array>
-			<string>/sinK.virama</string>
+			<string></string>
 			<string>/LithZero</string>
 			<string>/sinVirama</string>
-			<string>/sinK.virama</string>
-			<string>/sinMatraAae/sinR.virama/sinPI/sinLla/sinLlI/sinVirama/sinN.virama  
-/sinNd.virama/sinD.virama/sinSa/sinSI/sinDRa/sinT.virama 
+			<string>/sinMatraAae/sinLla/sinVirama  
+/sinSa 
 
-/sinLlU/sinMa/sinMU/sinRUu/sinNI/sinMa</string>
+/sinMa/sinMa</string>
 			<string>/sinMatraAa</string>
 			<string>/ellipsis</string>
+			<string></string>
+			<string>/sinMatraEe</string>
+			<string>/sinGa</string>
 		</array>
 		<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 		<false/>
@@ -27,9 +27,9 @@
 		<false/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.3.3.dev0
-1532068342.0 fontinfo.plist
-1532068342.0 layercontents.plist
-1532068342.0 metainfo.plist</string>
+1532414509.0 fontinfo.plist
+1532414510.0 layercontents.plist
+1532414509.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>sinA</string>
@@ -172,6 +172,7 @@
 			<string>sinMatraAae</string>
 			<string>sinMatraAe</string>
 			<string>sinMatraE</string>
+			<string>sinMatraEe</string>
 			<string>sinMatraI</string>
 			<string>sinMatraIi</string>
 			<string>sinMatraLs</string>
@@ -198,8 +199,8 @@
 			<string>sinMatraUu.alt2</string>
 			<string>sinMatraUu.alt3</string>
 			<string>sinAnusvara</string>
-			<string>sinBh.virama</string>
 			<string>sinB.virama</string>
+			<string>sinBh.virama</string>
 			<string>sinBhI</string>
 			<string>sinBhIi</string>
 			<string>sinBhRa</string>
@@ -208,37 +209,37 @@
 			<string>sinBhRIi</string>
 			<string>sinBhU</string>
 			<string>sinBhUu</string>
-			<string>sinBR.virama</string>
 			<string>sinBI</string>
-			<string>sinBIi</string>
+			<string>sinBR.virama</string>
 			<string>sinBRa</string>
 			<string>sinBRI</string>
+			<string>sinBIi</string>
 			<string>sinBRIi</string>
 			<string>sinBU</string>
 			<string>sinBUu</string>
 			<string>sinCh.virama</string>
-			<string>sinC.virama</string>
 			<string>sinChI</string>
-			<string>sinChIi</string>
+			<string>sinC.virama</string>
 			<string>sinChU</string>
+			<string>sinChIi</string>
 			<string>sinChUu</string>
-			<string>sinCR.virama</string>
 			<string>sinCI</string>
+			<string>sinCR.virama</string>
 			<string>sinCIi</string>
 			<string>sinCRa</string>
-			<string>sinCRI</string>
-			<string>sinCRIi</string>
 			<string>sinCU</string>
+			<string>sinCRIi</string>
+			<string>sinCRI</string>
 			<string>sinCUu</string>
 			<string>sinD.virama</string>
 			<string>sinDAa.ss01</string>
-			<string>sinDAa.virama.ss01</string>
-			<string>sinDAe.ss01</string>
 			<string>sinDAae.ss01</string>
+			<string>sinDAe.ss01</string>
 			<string>sinDDdh.virama</string>
-			<string>sinDd.virama</string>
 			<string>sinDDha</string>
+			<string>sinDAa.virama.ss01</string>
 			<string>sinDDhI</string>
+			<string>sinDd.virama</string>
 			<string>sinDDhIi</string>
 			<string>sinDDhU</string>
 			<string>sinDDhUu</string>
@@ -247,28 +248,29 @@
 			<string>sinDdhIi</string>
 			<string>sinDdhU</string>
 			<string>sinDdhUu</string>
+			<string>sinDdRa</string>
 			<string>sinDdR.virama</string>
 			<string>sinDdI</string>
-			<string>sinDdIi</string>
-			<string>sinDdRa</string>
 			<string>sinDdRI</string>
+			<string>sinDdIi</string>
 			<string>sinDdRIi</string>
 			<string>sinDdU</string>
 			<string>sinDdUu</string>
-			<string>sinDh.virama</string>
-			<string>sinDhI</string>
-			<string>sinDhRa</string>
 			<string>sinDhR.virama</string>
+			<string>sinDh.virama</string>
 			<string>sinDhRI</string>
-			<string>sinDhRIi</string>
+			<string>sinDhRa</string>
+			<string>sinDhI</string>
 			<string>sinDhIi</string>
+			<string>sinDhRIi</string>
 			<string>sinDhU</string>
 			<string>sinDhUu</string>
 			<string>sinDI</string>
 			<string>sinDIi</string>
 			<string>sinDR.virama</string>
-			<string>sinDRa</string>
 			<string>sinDRI</string>
+			<string>sinDRa.alt</string>
+			<string>sinDRa</string>
 			<string>sinDRIi</string>
 			<string>sinDra</string>
 			<string>sinDrI</string>
@@ -280,17 +282,17 @@
 			<string>sinDVI</string>
 			<string>sinDVIi</string>
 			<string>sinDVU</string>
-			<string>sinDVUu</string>
 			<string>sinDvocR</string>
+			<string>sinDVUu</string>
 			<string>sinDvocRr</string>
-			<string>sinDYa.post.ss01</string>
 			<string>sinDYAa.post.ss01</string>
+			<string>sinDYa.post.ss01</string>
 			<string>sinDYOo.post.ss01</string>
 			<string>sinDYu.post.ss01</string>
 			<string>sinDYUu.post.ss01</string>
 			<string>sinF.virama</string>
-			<string>sinFIi</string>
 			<string>sinFI</string>
+			<string>sinFIi</string>
 			<string>sinFR.virama</string>
 			<string>sinFRa</string>
 			<string>sinFRI</string>
@@ -309,18 +311,18 @@
 			<string>sinGhU</string>
 			<string>sinGhUu</string>
 			<string>sinGI</string>
-			<string>sinGIi</string>
 			<string>sinGR.virama</string>
 			<string>sinGRa</string>
+			<string>sinGIi</string>
 			<string>sinGRI</string>
 			<string>sinGRIi</string>
 			<string>sinGU</string>
 			<string>sinGUu</string>
-			<string>sinH.virama</string>
 			<string>sinHI</string>
-			<string>singNaa</string>
+			<string>sinH.virama</string>
 			<string>sinHIi</string>
 			<string>sinHR.virama</string>
+			<string>singNaa</string>
 			<string>sinHRa</string>
 			<string>sinHRI</string>
 			<string>sinHRIi</string>
@@ -358,27 +360,27 @@
 			<string>sinJU</string>
 			<string>sinJUu</string>
 			<string>sinK.virama</string>
-			<string>sinKAa</string>
 			<string>sinKh.virama</string>
+			<string>sinKAa</string>
 			<string>sinKhR.virama</string>
-			<string>sinKhRa</string>
 			<string>sinKhI</string>
 			<string>sinKhIi</string>
+			<string>sinKhRa</string>
 			<string>sinKhRI</string>
 			<string>sinKhRIi</string>
 			<string>sinKhUu</string>
 			<string>sinKI</string>
 			<string>sinKIi</string>
-			<string>sinKRa</string>
 			<string>sinKhU</string>
+			<string>sinKRa</string>
 			<string>sinKRI</string>
 			<string>sinKRIi</string>
 			<string>sinKSs.virama</string>
 			<string>sinKSsa</string>
 			<string>sinKSsI</string>
 			<string>sinKSsIi</string>
-			<string>sinKSsU</string>
 			<string>sinKSsUu</string>
+			<string>sinKSsU</string>
 			<string>sinKU</string>
 			<string>sinKUu</string>
 			<string>sinKundaliya</string>
@@ -394,15 +396,14 @@
 			<string>sinLl.virama</string>
 			<string>sinLlI</string>
 			<string>sinLlIi</string>
-			<string>sinLlU</string>
 			<string>sinLlUu</string>
-			<string>sinLU</string>
 			<string>sinLUu</string>
+			<string>sinLU</string>
+			<string>sinLlU</string>
 			<string>sinM.virama</string>
 			<string>sinMatraAea</string>
-			<string>sinMatraAi</string>
 			<string>sinMatraAu</string>
-			<string>sinMatraEe</string>
+			<string>sinMatraAi</string>
 			<string>sinMatraLl</string>
 			<string>sinMatraO</string>
 			<string>sinMatraOo</string>
@@ -423,11 +424,11 @@
 			<string>sinMUu</string>
 			<string>sinN.virama</string>
 			<string>sinNd.virama</string>
-			<string>sinND.virama</string>
 			<string>sinNDa</string>
+			<string>sinND.virama</string>
 			<string>sinNDAa.ss01</string>
-			<string>sinNDAa.virama.ss01</string>
 			<string>sinNDAe.ss01</string>
+			<string>sinNDAa.virama.ss01</string>
 			<string>sinNDAee.ss01</string>
 			<string>sinNDh.virama</string>
 			<string>sinNDha</string>
@@ -465,51 +466,51 @@
 			<string>sinNI</string>
 			<string>sinNIi</string>
 			<string>sinNn.virama</string>
+			<string>sinNndd.virama</string>
 			<string>sinNnddU</string>
 			<string>sinNnddUu</string>
-			<string>sinNng.virama</string>
-			<string>sinNndd.virama</string>
 			<string>sinNnddI</string>
 			<string>sinNnddIi</string>
+			<string>sinNng.virama</string>
 			<string>sinNngI</string>
 			<string>sinNngIi</string>
 			<string>sinNngU</string>
 			<string>sinNngUu</string>
-			<string>sinNnI</string>
 			<string>sinNnIi</string>
+			<string>sinNnI</string>
 			<string>sinNnU</string>
 			<string>sinNnUu</string>
 			<string>sinNTh.virama</string>
-			<string>sinNThI</string>
 			<string>sinNTha</string>
+			<string>sinNThI</string>
 			<string>sinNThIi</string>
-			<string>sinNThU</string>
 			<string>sinNThUu</string>
+			<string>sinNThU</string>
 			<string>sinNU</string>
 			<string>sinNUu</string>
 			<string>sinNV.virama</string>
-			<string>sinNVI</string>
 			<string>sinNVa</string>
 			<string>sinNVIi</string>
-			<string>sinNVU</string>
+			<string>sinNVI</string>
 			<string>sinNVUu</string>
+			<string>sinNVU</string>
 			<string>sinNy.virama</string>
 			<string>sinNyAa.ss01</string>
+			<string>sinNyAa</string>
 			<string>sinNyAa.virama.ss01</string>
 			<string>sinNyAe.ss01</string>
-			<string>sinNyAee.ss01</string>
 			<string>sinNyI</string>
-			<string>sinNyAa</string>
+			<string>sinNyAee.ss01</string>
 			<string>sinNyIi</string>
 			<string>sinNyR.virama</string>
+			<string>sinNyRI</string>
 			<string>sinNyRa</string>
 			<string>sinNyRIi</string>
-			<string>sinNyRI</string>
 			<string>sinNyU</string>
-			<string>sinNyUu</string>
 			<string>sinO</string>
-			<string>sinPh.virama</string>
+			<string>sinNyUu</string>
 			<string>sinP.virama</string>
+			<string>sinPh.virama</string>
 			<string>sinPhI</string>
 			<string>sinPhIi</string>
 			<string>sinPhU</string>
@@ -517,24 +518,24 @@
 			<string>sinPI</string>
 			<string>sinPIi</string>
 			<string>sinPR.virama</string>
-			<string>sinPRa</string>
 			<string>sinPRI</string>
+			<string>sinPRa</string>
 			<string>sinPRIi</string>
 			<string>sinPU</string>
 			<string>sinPUu</string>
 			<string>sinR.virama</string>
 			<string>sinRAae</string>
 			<string>sinRAe</string>
-			<string>sinRakar</string>
 			<string>sinRakar.long</string>
+			<string>sinRakar</string>
 			<string>sinRakar.medium</string>
 			<string>sinRakar.short</string>
 			<string>sinReph</string>
 			<string>sinRI</string>
-			<string>sinRU</string>
 			<string>sinRIi</string>
-			<string>sinRUu</string>
+			<string>sinRU</string>
 			<string>sinS.virama</string>
+			<string>sinRUu</string>
 			<string>sinSh.virama</string>
 			<string>sinShI</string>
 			<string>sinShIi</string>
@@ -546,16 +547,16 @@
 			<string>sinShUu</string>
 			<string>sinSI</string>
 			<string>sinSIi</string>
-			<string>sinSRa</string>
 			<string>sinSR.virama</string>
+			<string>sinSRa</string>
 			<string>sinSRI</string>
 			<string>sinSRIi</string>
 			<string>sinSs.virama</string>
 			<string>sinSsI</string>
 			<string>sinSsIi</string>
-			<string>sinSsRI</string>
-			<string>sinSsRa</string>
 			<string>sinSsR.virama</string>
+			<string>sinSsRa</string>
+			<string>sinSsRI</string>
 			<string>sinSsRIi</string>
 			<string>sinSsU</string>
 			<string>sinSsUu</string>
@@ -577,8 +578,8 @@
 			<string>sinTt.virama</string>
 			<string>sinTThI</string>
 			<string>sinTThIi</string>
-			<string>sinTTha</string>
 			<string>sinTThU</string>
+			<string>sinTTha</string>
 			<string>sinTThUu</string>
 			<string>sinTth.virama</string>
 			<string>sinTthI</string>
@@ -586,9 +587,9 @@
 			<string>sinTthU</string>
 			<string>sinTthUu</string>
 			<string>sinTtI</string>
+			<string>sinTtIi</string>
 			<string>sinTtR.virama</string>
 			<string>sinTtRa</string>
-			<string>sinTtIi</string>
 			<string>sinTtRI</string>
 			<string>sinTtRIi</string>
 			<string>sinTtTth.virama</string>
@@ -604,16 +605,16 @@
 			<string>sinTV.virama</string>
 			<string>sinTVa</string>
 			<string>sinTVI</string>
-			<string>sinTVIi</string>
 			<string>sinTVU</string>
+			<string>sinTVIi</string>
 			<string>sinTVUu</string>
-			<string>sinVisarga</string>
 			<string>sinV.virama</string>
-			<string>sinVRa</string>
+			<string>sinVisarga</string>
 			<string>sinVR.virama</string>
 			<string>sinVI</string>
-			<string>sinVRI</string>
+			<string>sinVRa</string>
 			<string>sinVIi</string>
+			<string>sinVRI</string>
 			<string>sinVRIi</string>
 			<string>sinVU</string>
 			<string>sinVUu</string>
