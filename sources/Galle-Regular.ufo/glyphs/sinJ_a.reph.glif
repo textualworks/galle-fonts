@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJa.reph" format="2">
+	<advance width="738"/>
+	<outline>
+		<component base="sinJa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-34</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1243</integer>
+						<key>width</key>
+						<integer>124</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1360</integer>
+						<key>width</key>
+						<integer>123</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>2061</integer>
+						<key>width</key>
+						<integer>150</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>79</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>395</integer>
+						<key>width</key>
+						<integer>121</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>859</integer>
+						<key>width</key>
+						<integer>137</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1360</integer>
+						<key>width</key>
+						<integer>131</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1674</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-01 18:59:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>

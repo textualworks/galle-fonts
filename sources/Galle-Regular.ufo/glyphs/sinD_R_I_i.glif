@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinDRIi" format="1">
-  <advance width="532"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-17 11:21:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinDRIi" format="2">
+	<advance width="603"/>
+	<outline>
+		<component base="sinDa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-34</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>998</integer>
+						<key>width</key>
+						<integer>129</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1269</integer>
+						<key>width</key>
+						<integer>144</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1364</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>101</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1120</integer>
+						<key>width</key>
+						<integer>125</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1217</integer>
+						<key>width</key>
+						<integer>124</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-01 18:59:58 +0000</string>
+		</dict>
+	</lib>
 </glyph>

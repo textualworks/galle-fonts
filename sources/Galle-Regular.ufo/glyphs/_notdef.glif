@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name=".notdef" format="1">
-  <advance width="540"/>
-  <outline>
-    <contour>
-      <point x="486" y="0" type="line"/>
-      <point x="486" y="480" type="line"/>
-      <point x="54" y="480" type="line"/>
-      <point x="54" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="426" type="line"/>
-      <point x="432" y="426" type="line"/>
-      <point x="432" y="54" type="line"/>
-      <point x="108" y="54" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1183</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>150</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1200</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-17 11:21:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name=".notdef" format="2">
+	<advance height="566" width="566"/>
+	<outline>
+		<contour>
+			<point x="526" y="0" type="curve"/>
+			<point x="40" y="0" type="line"/>
+			<point x="40" y="539" type="line"/>
+			<point x="526" y="539" type="line"/>
+			<point x="526" y="359"/>
+			<point x="526" y="180"/>
+		</contour>
+		<contour>
+			<point x="101" y="479" type="line"/>
+			<point x="101" y="60" type="line"/>
+			<point x="465" y="60" type="line"/>
+			<point x="465" y="479" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>33</integer>
+						<key>width</key>
+						<integer>35</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>307</integer>
+						<key>width</key>
+						<integer>35</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>117</integer>
+						<key>width</key>
+						<integer>33</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>346</integer>
+						<key>width</key>
+						<integer>33</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinThRIi" format="2">
+	<advance width="723"/>
+	<outline>
+		<component base="sinTha"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-34</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1102</integer>
+						<key>width</key>
+						<integer>123</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1345</integer>
+						<key>width</key>
+						<integer>116</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>79</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>556</integer>
+						<key>width</key>
+						<integer>120</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1507</integer>
+						<key>width</key>
+						<integer>133</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-01 18:59:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>

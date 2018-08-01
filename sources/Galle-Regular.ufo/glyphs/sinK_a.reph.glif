@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinKa.reph" format="2">
+	<advance height="925" width="925"/>
+	<outline>
+		<contour>
+			<point x="533" y="714" type="curve" smooth="yes"/>
+			<point x="533" y="780"/>
+			<point x="490" y="829"/>
+			<point x="421" y="829" type="curve" smooth="yes"/>
+			<point x="369" y="829"/>
+			<point x="331" y="800"/>
+			<point x="331" y="755" type="curve" smooth="yes"/>
+			<point x="331" y="726"/>
+			<point x="351" y="705"/>
+			<point x="379" y="705" type="curve" smooth="yes"/>
+			<point x="405" y="705"/>
+			<point x="417" y="725"/>
+			<point x="417" y="743" type="curve" smooth="yes"/>
+			<point x="417" y="755"/>
+			<point x="412" y="764"/>
+			<point x="404" y="771" type="curve"/>
+			<point x="410" y="775"/>
+			<point x="420" y="778"/>
+			<point x="435" y="778" type="curve" smooth="yes"/>
+			<point x="464" y="778"/>
+			<point x="486" y="749"/>
+			<point x="486" y="714" type="curve" smooth="yes"/>
+			<point x="486" y="663"/>
+			<point x="431" y="629"/>
+			<point x="379" y="629" type="curve" smooth="yes"/>
+			<point x="307" y="629"/>
+			<point x="249" y="673"/>
+			<point x="249" y="763" type="curve" smooth="yes"/>
+			<point x="249" y="862"/>
+			<point x="331" y="923"/>
+			<point x="441" y="923" type="curve" smooth="yes"/>
+			<point x="549" y="923"/>
+			<point x="633" y="842"/>
+			<point x="633" y="730" type="curve" smooth="yes"/>
+			<point x="633" y="700"/>
+			<point x="628" y="665"/>
+			<point x="615" y="629" type="curve" smooth="yes"/>
+			<point x="614" y="625"/>
+			<point x="614" y="621"/>
+			<point x="614" y="618" type="curve" smooth="yes"/>
+			<point x="614" y="603"/>
+			<point x="626" y="596"/>
+			<point x="637" y="596" type="curve" smooth="yes"/>
+			<point x="647" y="596"/>
+			<point x="656" y="599"/>
+			<point x="659" y="610" type="curve" smooth="yes"/>
+			<point x="674" y="655"/>
+			<point x="681" y="693"/>
+			<point x="681" y="730" type="curve" smooth="yes"/>
+			<point x="681" y="875"/>
+			<point x="573" y="970"/>
+			<point x="441" y="970" type="curve" smooth="yes"/>
+			<point x="298" y="970"/>
+			<point x="202" y="886"/>
+			<point x="202" y="763" type="curve" smooth="yes"/>
+			<point x="202" y="642"/>
+			<point x="282" y="581"/>
+			<point x="379" y="581" type="curve" smooth="yes"/>
+			<point x="454" y="581"/>
+			<point x="533" y="630"/>
+		</contour>
+		<component base="sinKa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>46</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>337</integer>
+						<key>width</key>
+						<integer>81</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>374</integer>
+						<key>width</key>
+						<integer>42</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>466</integer>
+						<key>width</key>
+						<integer>44</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>492</integer>
+						<key>width</key>
+						<integer>48</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>38</integer>
+						<key>width</key>
+						<integer>45</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>195</integer>
+						<key>width</key>
+						<integer>38</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>286</integer>
+						<key>width</key>
+						<integer>48</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>539</integer>
+						<key>width</key>
+						<integer>48</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>783</integer>
+						<key>width</key>
+						<integer>46</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

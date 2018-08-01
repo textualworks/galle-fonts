@@ -1,14 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinBUu" format="1">
-  <advance width="583"/>
-  <outline>
-    <component base="sinMatraUu.alt1" xOffset="540"/>
-    <component base="sinBa"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-17 11:21:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinBUu" format="2">
+	<advance width="816"/>
+	<outline>
+		<component base="sinBa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>0</integer>
+						<key>width</key>
+						<integer>137</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>525</integer>
+						<key>width</key>
+						<integer>144</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1247</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>2068</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>117</integer>
+						<key>width</key>
+						<integer>119</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>705</integer>
+						<key>width</key>
+						<integer>123</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>956</integer>
+						<key>width</key>
+						<integer>156</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1154</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1926</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-01 18:59:58 +0000</string>
+		</dict>
+	</lib>
 </glyph>

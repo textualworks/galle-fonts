@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinVRIi" format="1">
-  <advance width="506"/>
-  <outline>
-    <component base="sinRakar.short" xOffset="438" yOffset="16"/>
-    <component base="sinVIi"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-17 11:21:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinVRIi" format="2">
+	<advance width="726"/>
+	<outline>
+		<component base="sinVa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-34</integer>
+						<key>width</key>
+						<integer>137</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1006</integer>
+						<key>width</key>
+						<integer>143</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1246</integer>
+						<key>width</key>
+						<integer>124</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1977</integer>
+						<key>width</key>
+						<integer>128</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>21</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>368</integer>
+						<key>width</key>
+						<integer>121</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>1525</integer>
+						<key>width</key>
+						<integer>135</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-01 18:59:58 +0000</string>
+		</dict>
+	</lib>
 </glyph>
