@@ -4,10 +4,33 @@
 	<dict>
 		<key>com.schriftgestaltung.DisplayStrings</key>
 		<array>
-			<string>/tmKU</string>
-			<string>/tmKU</string>
+			<string></string>
+			<string></string>
 			<string>/sinAae/sinAe/sinAi/sinUu/sinvocalicLL/sinMatraAu/sinMatraAi/sinMatraO/sinMatraOo/sinMatraRr</string>
 			<string>/sinO</string>
+			<string></string>
+			<string>
+
+
+
+
+/sinGha 
+
+
+/sinNa 
+
+
+
+
+ </string>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string>/sinTa</string>
 		</array>
 		<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 		<false/>
@@ -19,9 +42,9 @@
 		<false/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.3.3.dev0
-1533150619.0 fontinfo.plist
-1533150619.0 layercontents.plist
-1533150619.0 metainfo.plist</string>
+1533344914.0 fontinfo.plist
+1533344914.0 layercontents.plist
+1533344914.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>sinA</string>
@@ -291,7 +314,6 @@
 			<string>sinDdhU</string>
 			<string>sinDdhUu</string>
 			<string>sinDdRa</string>
-			<string>sinDdR.virama</string>
 			<string>sinDdI</string>
 			<string>sinDdRI</string>
 			<string>sinDdIi</string>
@@ -565,7 +587,6 @@
 			<string>sinRakar</string>
 			<string>sinRakar.medium</string>
 			<string>sinRakar.short</string>
-			<string>sinReph</string>
 			<string>sinRI</string>
 			<string>sinRIi</string>
 			<string>sinRU</string>
@@ -663,58 +684,16 @@
 			<string>sinYU.post</string>
 			<string>sinYUu</string>
 			<string>sinYUu.post</string>
-			<string>tmKU</string>
 			<string>sinBhAa.virama</string>
 			<string>sinBhAa</string>
-			<string>sinBhR.virama</string>
-			<string>sinBhU.reph</string>
-			<string>sinBhUu.reph</string>
-			<string>sinBU.reph</string>
-			<string>sinBUu.reph</string>
-			<string>sinChR.virama</string>
-			<string>sinChRI</string>
-			<string>sinChRa</string>
-			<string>sinChRIi</string>
-			<string>sinChU.reph</string>
-			<string>sinChUu.reph</string>
-			<string>sinCU.reph</string>
-			<string>sinCUu.reph</string>
-			<string>sinDdhR.virama</string>
-			<string>sinDdhRI</string>
-			<string>sinDdhRIi</string>
-			<string>sinDdhRa</string>
-			<string>sinDdhU.reph</string>
-			<string>sinDdhUu.reph</string>
-			<string>sinDdU.reph</string>
-			<string>sinDdUu.reph</string>
-			<string>sinDhU.reph</string>
-			<string>sinDhUu.reph</string>
-			<string>sinDU.reph</string>
-			<string>sinDUu.reph</string>
 			<string>sinFAa.virama</string>
 			<string>sinFAa</string>
-			<string>sinFUu.reph</string>
-			<string>sinFU.reph</string>
 			<string>sinGAa</string>
 			<string>sinGAa.virama</string>
-			<string>sinGhUu.reph</string>
-			<string>sinGhU.reph</string>
-			<string>sinGU.reph</string>
 			<string>sinHAa.virama</string>
 			<string>sinHAa</string>
-			<string>sinGUu.reph</string>
-			<string>sinHU.reph</string>
-			<string>sinHUu.reph</string>
-			<string>sinJhU.reph</string>
-			<string>sinJhUu.reph</string>
-			<string>sinJU.reph</string>
-			<string>sinJUu.reph</string>
 			<string>sinKAa.virama</string>
 			<string>sinKR.virama</string>
-			<string>sinKhU.reph</string>
-			<string>sinKhUu.reph</string>
-			<string>sinKU.reph</string>
-			<string>sinKUu.reph</string>
 			<string>sinNAa.virama</string>
 			<string>sinNAa</string>
 			<string>sinNgU</string>
@@ -723,44 +702,87 @@
 			<string>sinNnAa</string>
 			<string>sinNngAa</string>
 			<string>sinNngAa.virama</string>
-			<string>sinPhR.virama</string>
-			<string>sinPhRI</string>
-			<string>sinPhRIi</string>
 			<string>sinPhRa</string>
+			<string>sinTAa.virama</string>
+			<string>sinTAa</string>
+			<string>sinThR.virama</string>
+			<string>sinThRa</string>
+			<string>sinTthRa</string>
+			<string>sinBhR.virama</string>
+			<string>sinChRa</string>
+			<string>sinChRI</string>
+			<string>sinChR.virama</string>
+			<string>sinChRIi</string>
+			<string>sinDdhRa</string>
+			<string>sinDdhR.virama</string>
+			<string>sinDdhRI</string>
+			<string>sinDdhRIi</string>
+			<string>sinPhRI</string>
+			<string>sinPhR.virama</string>
+			<string>sinPhRIi</string>
+			<string>sinThRI</string>
+			<string>sinThRIi</string>
+			<string>sinTthRI</string>
+			<string>sinTthRIi</string>
+			<string>sinTthR.virama</string>
+			<string>sinBhU.reph</string>
+			<string>sinBhUu.reph</string>
+			<string>sinBU.reph</string>
+			<string>sinBUu.reph</string>
+			<string>sinChU.reph</string>
+			<string>sinChUu.reph</string>
+			<string>sinCU.reph</string>
+			<string>sinCUu.reph</string>
+			<string>sinDdhU.reph</string>
+			<string>sinDdhUu.reph</string>
+			<string>sinDdU.reph</string>
+			<string>sinDdUu.reph</string>
+			<string>sinDhU.reph</string>
+			<string>sinDhUu.reph</string>
+			<string>sinDU.reph</string>
+			<string>sinDUu.reph</string>
+			<string>sinFU.reph</string>
+			<string>sinFUu.reph</string>
+			<string>sinHU.reph</string>
+			<string>sinHUu.reph</string>
+			<string>sinGhU.reph</string>
+			<string>sinGhUu.reph</string>
+			<string>sinJhU.reph</string>
+			<string>sinJhUu.reph</string>
+			<string>sinGU.reph</string>
+			<string>sinGUu.reph</string>
+			<string>sinJU.reph</string>
+			<string>sinJUu.reph</string>
+			<string>sinKhU.reph</string>
+			<string>sinKhUu.reph</string>
+			<string>sinKU.reph</string>
+			<string>sinKUu.reph</string>
 			<string>sinPhU.reph</string>
 			<string>sinPhUu.reph</string>
 			<string>sinPU.reph</string>
 			<string>sinPUu.reph</string>
-			<string>sinShU.reph</string>
 			<string>sinShUu.reph</string>
+			<string>sinShU.reph</string>
 			<string>sinSsU.reph</string>
 			<string>sinSsUu.reph</string>
 			<string>sinSU.reph</string>
 			<string>sinSUu.reph</string>
-			<string>sinTAa.virama</string>
-			<string>sinTAa</string>
-			<string>sinThR.virama</string>
-			<string>sinThRI</string>
-			<string>sinThRa</string>
-			<string>sinThRIi</string>
 			<string>sinThU.reph</string>
 			<string>sinThUu.reph</string>
-			<string>sinTthR.virama</string>
-			<string>sinTthRI</string>
-			<string>sinTthRIi</string>
-			<string>sinTthRa</string>
 			<string>sinTthU.reph</string>
 			<string>sinTthUu.reph</string>
-			<string>sinTtU.reph</string>
-			<string>sinTtUu.reph</string>
 			<string>sinTU.reph</string>
 			<string>sinTUu.reph</string>
+			<string>sinTtU.reph</string>
+			<string>sinTtUu.reph</string>
 			<string>sinVU.reph</string>
 			<string>sinVUu.reph</string>
 			<string>sinYU.reph</string>
 			<string>sinYUu.reph</string>
 			<string>sinYU.post.reph</string>
 			<string>sinYUu.post.reph</string>
+			<string>sinReph</string>
+			<string>sinDdR.virama</string>
 		</array>
 	</dict>
 </plist>

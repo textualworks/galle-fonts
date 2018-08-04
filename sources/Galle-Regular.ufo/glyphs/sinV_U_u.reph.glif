@@ -1,64 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVUu.reph" format="2">
-	<advance width="726"/>
+	<advance width="665"/>
 	<outline>
-		<component base="sinVa"/>
+		<contour>
+			<point x="626" y="-399" type="curve" smooth="yes"/>
+			<point x="626" y="215" type="line"/>
+			<point x="578" y="215" type="line"/>
+			<point x="578" y="-362" type="line"/>
+			<point x="561" y="-328"/>
+			<point x="449" y="-247"/>
+			<point x="429" y="-224" type="curve" smooth="yes"/>
+			<point x="410" y="-203"/>
+			<point x="402" y="-189"/>
+			<point x="390" y="-189" type="curve" smooth="yes"/>
+			<point x="379" y="-189"/>
+			<point x="370" y="-197"/>
+			<point x="370" y="-209" type="curve" smooth="yes"/>
+			<point x="370" y="-228"/>
+			<point x="370" y="-254"/>
+			<point x="370" y="-271" type="curve" smooth="yes"/>
+			<point x="370" y="-343"/>
+			<point x="303" y="-384"/>
+			<point x="234" y="-384" type="curve" smooth="yes"/>
+			<point x="171" y="-384"/>
+			<point x="117" y="-348"/>
+			<point x="104" y="-278" type="curve" smooth="yes"/>
+			<point x="89" y="-195"/>
+			<point x="118" y="-117"/>
+			<point x="164" y="-40" type="curve" smooth="yes"/>
+			<point x="166" y="-36"/>
+			<point x="166" y="-32"/>
+			<point x="166" y="-29" type="curve" smooth="yes"/>
+			<point x="166" y="-16"/>
+			<point x="153" y="-7"/>
+			<point x="140" y="-7" type="curve" smooth="yes"/>
+			<point x="133" y="-7"/>
+			<point x="126" y="-11"/>
+			<point x="122" y="-19" type="curve" smooth="yes"/>
+			<point x="80" y="-95"/>
+			<point x="44" y="-191"/>
+			<point x="56" y="-278" type="curve" smooth="yes"/>
+			<point x="69" y="-367"/>
+			<point x="141" y="-432"/>
+			<point x="234" y="-432" type="curve" smooth="yes"/>
+			<point x="350" y="-432"/>
+			<point x="407" y="-354"/>
+			<point x="407" y="-289" type="curve" smooth="yes"/>
+			<point x="407" y="-284"/>
+			<point x="407" y="-275"/>
+			<point x="405" y="-268" type="curve"/>
+			<point x="430" y="-294"/>
+			<point x="516" y="-345"/>
+			<point x="555" y="-409" type="curve" smooth="yes"/>
+			<point x="566" y="-429"/>
+			<point x="584" y="-432"/>
+			<point x="595" y="-432" type="curve" smooth="yes"/>
+			<point x="614" y="-432"/>
+			<point x="626" y="-422"/>
+		</contour>
+		<component base="sinVa.reph"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-34</integer>
-						<key>width</key>
-						<integer>137</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1006</integer>
-						<key>width</key>
-						<integer>143</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1246</integer>
-						<key>width</key>
-						<integer>124</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1977</integer>
-						<key>width</key>
-						<integer>128</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>21</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>368</integer>
-						<key>width</key>
-						<integer>121</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1525</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-01 18:59:58 +0000</string>
+			<string>2018-08-04 01:07:06 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,58 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinThU.reph" format="2">
-	<advance width="723"/>
+	<advance width="670"/>
 	<outline>
-		<component base="sinTha"/>
+		<contour>
+			<point x="125" y="-64" type="curve" smooth="yes"/>
+			<point x="138" y="-64"/>
+			<point x="145" y="-73"/>
+			<point x="145" y="-86" type="curve" smooth="yes"/>
+			<point x="145" y="-90"/>
+			<point x="144" y="-95"/>
+			<point x="142" y="-99" type="curve" smooth="yes"/>
+			<point x="118" y="-152"/>
+			<point x="102" y="-197"/>
+			<point x="102" y="-246" type="curve" smooth="yes"/>
+			<point x="102" y="-339"/>
+			<point x="145" y="-384"/>
+			<point x="244" y="-384" type="curve" smooth="yes"/>
+			<point x="564" y="-384" type="line" smooth="yes"/>
+			<point x="582" y="-384"/>
+			<point x="588" y="-374"/>
+			<point x="588" y="-353" type="curve" smooth="yes"/>
+			<point x="588" y="178" type="line"/>
+			<point x="636" y="178" type="line"/>
+			<point x="636" y="-397" type="line" smooth="yes"/>
+			<point x="636" y="-419"/>
+			<point x="619" y="-432"/>
+			<point x="595" y="-432" type="curve" smooth="yes"/>
+			<point x="244" y="-432" type="line" smooth="yes"/>
+			<point x="109" y="-432"/>
+			<point x="56" y="-348"/>
+			<point x="56" y="-248" type="curve" smooth="yes"/>
+			<point x="56" y="-193"/>
+			<point x="69" y="-131"/>
+			<point x="100" y="-79" type="curve" smooth="yes"/>
+			<point x="106" y="-68"/>
+			<point x="116" y="-64"/>
+		</contour>
+		<component base="sinTha.reph"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-34</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1102</integer>
-						<key>width</key>
-						<integer>123</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1345</integer>
-						<key>width</key>
-						<integer>116</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>79</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>556</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1507</integer>
-						<key>width</key>
-						<integer>133</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-01 18:59:58 +0000</string>
+			<string>2018-08-04 01:07:06 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,88 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDdhR.virama" format="2">
-	<advance width="881"/>
+	<advance width="794"/>
 	<outline>
+		<contour>
+			<point x="514" y="937" type="curve" smooth="yes"/>
+			<point x="514" y="956"/>
+			<point x="519" y="972"/>
+			<point x="539" y="972" type="curve" smooth="yes"/>
+			<point x="555" y="972"/>
+			<point x="563" y="959"/>
+			<point x="563" y="942" type="curve"/>
+			<point x="571" y="936"/>
+			<point x="579" y="934"/>
+			<point x="589" y="934" type="curve" smooth="yes"/>
+			<point x="630" y="934"/>
+			<point x="650" y="958"/>
+			<point x="687" y="958" type="curve" smooth="yes"/>
+			<point x="723" y="958"/>
+			<point x="767" y="930"/>
+			<point x="767" y="867" type="curve" smooth="yes"/>
+			<point x="767" y="789"/>
+			<point x="714" y="726"/>
+			<point x="642" y="726" type="curve" smooth="yes"/>
+			<point x="607" y="726"/>
+			<point x="581" y="738"/>
+			<point x="560" y="753" type="curve"/>
+			<point x="560" y="674" type="line" smooth="yes"/>
+			<point x="560" y="669" type="line"/>
+			<point x="515" y="673" type="line"/>
+			<point x="514" y="686"/>
+			<point x="514" y="698"/>
+			<point x="514" y="707" type="curve" smooth="yes"/>
+			<point x="514" y="784"/>
+			<point x="514" y="860"/>
+		</contour>
+		<contour>
+			<point x="673" y="910" type="curve" smooth="yes"/>
+			<point x="641" y="910"/>
+			<point x="625" y="890"/>
+			<point x="593" y="890" type="curve" smooth="yes"/>
+			<point x="579" y="890"/>
+			<point x="569" y="894"/>
+			<point x="562" y="898" type="curve"/>
+			<point x="561" y="867"/>
+			<point x="561" y="835"/>
+			<point x="561" y="803" type="curve"/>
+			<point x="576" y="788"/>
+			<point x="601" y="772"/>
+			<point x="636" y="772" type="curve" smooth="yes"/>
+			<point x="686" y="772"/>
+			<point x="716" y="810"/>
+			<point x="716" y="860" type="curve" smooth="yes"/>
+			<point x="716" y="899"/>
+			<point x="695" y="910"/>
+		</contour>
+		<contour>
+			<point x="710" y="-174" type="curve" smooth="yes"/>
+			<point x="722" y="-113"/>
+			<point x="723" y="-64"/>
+			<point x="719" y="-25" type="curve" smooth="yes"/>
+			<point x="717" y="-3"/>
+			<point x="706" y="4"/>
+			<point x="690" y="0" type="curve" smooth="yes"/>
+			<point x="677" y="-3"/>
+			<point x="672" y="-17"/>
+			<point x="674" y="-37" type="curve" smooth="yes"/>
+			<point x="677" y="-64"/>
+			<point x="680" y="-112"/>
+			<point x="664" y="-176" type="curve" smooth="yes"/>
+			<point x="632" y="-306"/>
+			<point x="509" y="-386"/>
+			<point x="372" y="-386" type="curve" smooth="yes"/>
+			<point x="356" y="-386"/>
+			<point x="338" y="-386"/>
+			<point x="319" y="-383" type="curve" smooth="yes"/>
+			<point x="300" y="-380"/>
+			<point x="288" y="-384"/>
+			<point x="285" y="-398" type="curve" smooth="yes"/>
+			<point x="282" y="-411"/>
+			<point x="287" y="-425"/>
+			<point x="308" y="-430" type="curve" smooth="yes"/>
+			<point x="325" y="-434"/>
+			<point x="351" y="-434"/>
+			<point x="369" y="-434" type="curve" smooth="yes"/>
+			<point x="534" y="-432"/>
+			<point x="679" y="-332"/>
+		</contour>
 		<component base="sinDdha"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>985</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1026</integer>
-						<key>width</key>
-						<integer>81</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1077</integer>
-						<key>width</key>
-						<integer>143</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1113</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1216</integer>
-						<key>width</key>
-						<integer>124</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1360</integer>
-						<key>width</key>
-						<integer>123</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>100</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>539</integer>
-						<key>width</key>
-						<integer>128</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>995</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1946</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-01 18:59:58 +0000</string>
+			<string>2018-08-04 01:07:06 +0000</string>
 		</dict>
 	</lib>
 </glyph>
