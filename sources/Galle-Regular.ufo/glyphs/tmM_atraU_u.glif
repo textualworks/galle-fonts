@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tmMatraUu" format="2">
+	<advance width="471"/>
+	<unicode hex="0BC2"/>
+	<outline>
+		<contour>
+			<point x="293" y="107" type="curve" smooth="yes"/>
+			<point x="387" y="107"/>
+			<point x="453" y="176"/>
+			<point x="453" y="291" type="curve" smooth="yes"/>
+			<point x="453" y="380"/>
+			<point x="388" y="444"/>
+			<point x="296" y="444" type="curve" smooth="yes"/>
+			<point x="225" y="444"/>
+			<point x="172" y="392"/>
+			<point x="172" y="325" type="curve" smooth="yes"/>
+			<point x="171" y="285"/>
+			<point x="196" y="245"/>
+			<point x="253" y="245" type="curve" smooth="yes"/>
+			<point x="306" y="244"/>
+			<point x="328" y="282"/>
+			<point x="332" y="329" type="curve" smooth="yes"/>
+			<point x="335" y="366" type="line"/>
+			<point x="331" y="371" type="line"/>
+			<point x="264" y="367"/>
+			<point x="167" y="367"/>
+			<point x="-168" y="367" type="curve"/>
+			<point x="-168" y="336" type="line"/>
+			<point x="284" y="336" type="line"/>
+			<point x="284" y="306"/>
+			<point x="277" y="271"/>
+			<point x="251" y="271" type="curve" smooth="yes"/>
+			<point x="213" y="271"/>
+			<point x="197" y="301"/>
+			<point x="197" y="325" type="curve" smooth="yes"/>
+			<point x="198" y="375"/>
+			<point x="236" y="418"/>
+			<point x="293" y="418" type="curve" smooth="yes"/>
+			<point x="375" y="418"/>
+			<point x="412" y="356"/>
+			<point x="412" y="290" type="curve" smooth="yes"/>
+			<point x="412" y="199"/>
+			<point x="359" y="132"/>
+			<point x="287" y="132" type="curve" smooth="yes"/>
+			<point x="216" y="132"/>
+			<point x="149" y="175"/>
+			<point x="148" y="240" type="curve"/>
+			<point x="140" y="245"/>
+			<point x="131" y="247"/>
+			<point x="122" y="246" type="curve"/>
+			<point x="122" y="161"/>
+			<point x="198" y="107"/>
+		</contour>
+	</outline>
+	<anchor name="_Anchor-2" x="-168" y="367"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-08-04 01:24:32 +0000</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
+</glyph>
