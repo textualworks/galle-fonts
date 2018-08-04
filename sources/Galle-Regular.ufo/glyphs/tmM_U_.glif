@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tmMU" format="2">
-	<advance width="819"/>
+	<advance width="579"/>
 	<outline>
-		<contour>
-			<point x="349" y="-187" type="curve" smooth="yes"/>
-			<point x="496" y="-187"/>
-			<point x="574" y="-85"/>
-			<point x="574" y="8" type="curve"/>
-			<point x="518" y="8" type="line"/>
-			<point x="518" y="-91"/>
-			<point x="448" y="-150"/>
-			<point x="343" y="-149" type="curve" smooth="yes"/>
-			<point x="189" y="-148"/>
-			<point x="95" y="-35"/>
-			<point x="97" y="98" type="curve" smooth="yes"/>
-			<point x="99" y="207"/>
-			<point x="157" y="297"/>
-			<point x="241" y="352" type="curve"/>
-			<point x="233" y="365"/>
-			<point x="222" y="377"/>
-			<point x="210" y="381" type="curve"/>
-			<point x="142" y="337"/>
-			<point x="62" y="233"/>
-			<point x="60" y="96" type="curve" smooth="yes"/>
-			<point x="58" y="-55"/>
-			<point x="154" y="-187"/>
-		</contour>
-		<component base="tmMa" xOffset="240"/>
+		<component base="tmMa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:24:33 +0000</string>
+			<string>2018-08-04 01:54:47 +0000</string>
 			<key>public.markColor</key>
 			<string>0.85,0.26,0.06,1</string>
 		</dict>

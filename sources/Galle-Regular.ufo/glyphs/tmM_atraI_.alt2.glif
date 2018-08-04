@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tmMatraI.alt2" format="2">
 	<advance width="149"/>
-	<outline>
-		<contour>
-			<point x="56" y="0" type="curve"/>
-			<point x="95" y="0" type="line"/>
-			<point x="97" y="93" type="line"/>
-			<point x="98" y="391" type="line" smooth="yes"/>
-			<point x="99" y="524"/>
-			<point x="56" y="606"/>
-			<point x="-47" y="606" type="curve" smooth="yes"/>
-			<point x="-132" y="606"/>
-			<point x="-188" y="538"/>
-			<point x="-186" y="444" type="curve" smooth="yes"/>
-			<point x="-185" y="373"/>
-			<point x="-148" y="334"/>
-			<point x="-125" y="319" type="curve"/>
-			<point x="-107" y="325" type="line"/>
-			<point x="-117" y="343"/>
-			<point x="-148" y="375"/>
-			<point x="-148" y="437" type="curve" smooth="yes"/>
-			<point x="-148" y="507"/>
-			<point x="-109" y="552"/>
-			<point x="-50" y="552" type="curve" smooth="yes"/>
-			<point x="10" y="552"/>
-			<point x="62" y="503"/>
-			<point x="61" y="383" type="curve" smooth="yes"/>
-			<point x="60" y="98" type="line" smooth="yes"/>
-			<point x="59" y="69"/>
-			<point x="58" y="34"/>
-		</contour>
-	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:24:32 +0000</string>
+			<string>2018-08-04 01:54:46 +0000</string>
 			<key>public.markColor</key>
 			<string>0.85,0.26,0.06,1</string>
 		</dict>

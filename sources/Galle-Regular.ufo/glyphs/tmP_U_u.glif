@@ -1,61 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tmPUu" format="2">
-	<advance width="725"/>
+	<advance width="549"/>
 	<outline>
-		<contour>
-			<point x="324" y="-255" type="curve" smooth="yes"/>
-			<point x="541" y="-254"/>
-			<point x="683" y="-169"/>
-			<point x="684" y="-48" type="curve" smooth="yes"/>
-			<point x="684" y="19"/>
-			<point x="637" y="58"/>
-			<point x="580" y="58" type="curve" smooth="yes"/>
-			<point x="525" y="58"/>
-			<point x="469" y="15"/>
-			<point x="467" y="-33" type="curve"/>
-			<point x="482" y="-70" type="line"/>
-			<point x="484" y="-11"/>
-			<point x="522" y="18"/>
-			<point x="560" y="18" type="curve" smooth="yes"/>
-			<point x="600" y="18"/>
-			<point x="622" y="-14"/>
-			<point x="622" y="-51" type="curve" smooth="yes"/>
-			<point x="621" y="-141"/>
-			<point x="520" y="-216"/>
-			<point x="319" y="-217" type="curve" smooth="yes"/>
-			<point x="186" y="-218"/>
-			<point x="86" y="-177"/>
-			<point x="86" y="-134" type="curve" smooth="yes"/>
-			<point x="86" y="-98"/>
-			<point x="123" y="-92"/>
-			<point x="162" y="-92" type="curve" smooth="yes"/>
-			<point x="197" y="-91"/>
-			<point x="236" y="-99"/>
-			<point x="264" y="-108" type="curve"/>
-			<point x="269" y="-103"/>
-			<point x="274" y="-91"/>
-			<point x="275" y="-75" type="curve"/>
-			<point x="243" y="-67"/>
-			<point x="204" y="-61"/>
-			<point x="169" y="-61" type="curve" smooth="yes"/>
-			<point x="104" y="-62"/>
-			<point x="49" y="-87"/>
-			<point x="49" y="-135" type="curve" smooth="yes"/>
-			<point x="48" y="-208"/>
-			<point x="176" y="-256"/>
-		</contour>
-		<contour>
-			<point x="436" y="-101" type="line"/>
-			<point x="491" y="-94" type="line"/>
-			<point x="491" y="41" type="line"/>
-			<point x="436" y="41" type="line"/>
-		</contour>
 		<component base="tmPa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:24:33 +0000</string>
+			<string>2018-08-04 01:54:47 +0000</string>
 			<key>public.markColor</key>
 			<string>0.85,0.26,0.06,1</string>
 		</dict>
