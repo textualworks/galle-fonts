@@ -21,6 +21,9 @@
 
  </string>
 			<string>/sinTa</string>
+			<string>/LithZero/LithOne/LithTwo/LithThree/LithFour/LithFive/LithSix/LithSeven/LithEight/LithNine/ArchaicOne/ArchaicTwo/ArchaicThree/ArchaicFour/ArchaicFive/ArchaicSix/ArchaicSeven/ArchaicEight/ArchaicNine/ArchaicTen/ArchaicTwenty/ArchaicThirty/ArchaicForty/ArchaicFifty/ArchaicSixty/ArchaicSeventy/ArchaicEighty/ArchaicNinety/ArchaicHundred/ArchaicThousand</string>
+			<string>/sinPhU.reph</string>
+			<string>/sinChI</string>
 		</array>
 		<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 		<false/>
@@ -32,9 +35,9 @@
 		<false/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.3.3.dev0
-1533347736.0 fontinfo.plist
-1533347736.0 layercontents.plist
-1533347736.0 metainfo.plist</string>
+1533724191.0 fontinfo.plist
+1533724191.0 layercontents.plist
+1533724191.0 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>sinA</string>
@@ -96,43 +99,6 @@
 			<string>sinvocalicLL</string>
 			<string>sinvocalicR</string>
 			<string>sinvocalicRr</string>
-			<string>tmA</string>
-			<string>tmAa</string>
-			<string>tmI</string>
-			<string>tmIi</string>
-			<string>tmU</string>
-			<string>tmUu</string>
-			<string>tmE</string>
-			<string>tmEe</string>
-			<string>tmAi</string>
-			<string>tmO</string>
-			<string>tmOo</string>
-			<string>tmAu</string>
-			<string>tmKa</string>
-			<string>tmNga</string>
-			<string>tmCa</string>
-			<string>tmJa</string>
-			<string>tmNya</string>
-			<string>tmTta</string>
-			<string>tmNna</string>
-			<string>tmTa</string>
-			<string>tmNa</string>
-			<string>tmNnna</string>
-			<string>tmPa</string>
-			<string>tmMa</string>
-			<string>tmYa</string>
-			<string>tmRa</string>
-			<string>tmRra</string>
-			<string>tmLa</string>
-			<string>tmLla</string>
-			<string>tmLlla</string>
-			<string>tmVa</string>
-			<string>tmSha</string>
-			<string>tmSsa</string>
-			<string>tmSa</string>
-			<string>tmHa</string>
-			<string>tmOm</string>
-			<string>tmVisarga</string>
 			<string>sinBa.reph</string>
 			<string>sinBha.reph</string>
 			<string>sinCa.reph</string>
@@ -174,6 +140,43 @@
 			<string>sinYa.post</string>
 			<string>sinYa.post.reph</string>
 			<string>sinYa.reph</string>
+			<string>tmA</string>
+			<string>tmAa</string>
+			<string>tmI</string>
+			<string>tmIi</string>
+			<string>tmU</string>
+			<string>tmUu</string>
+			<string>tmE</string>
+			<string>tmEe</string>
+			<string>tmAi</string>
+			<string>tmO</string>
+			<string>tmOo</string>
+			<string>tmAu</string>
+			<string>tmKa</string>
+			<string>tmNga</string>
+			<string>tmCa</string>
+			<string>tmJa</string>
+			<string>tmNya</string>
+			<string>tmTta</string>
+			<string>tmNna</string>
+			<string>tmTa</string>
+			<string>tmNa</string>
+			<string>tmNnna</string>
+			<string>tmPa</string>
+			<string>tmMa</string>
+			<string>tmYa</string>
+			<string>tmRa</string>
+			<string>tmRra</string>
+			<string>tmLa</string>
+			<string>tmLla</string>
+			<string>tmLlla</string>
+			<string>tmVa</string>
+			<string>tmSha</string>
+			<string>tmSsa</string>
+			<string>tmSa</string>
+			<string>tmHa</string>
+			<string>tmOm</string>
+			<string>tmVisarga</string>
 			<string>zero</string>
 			<string>one</string>
 			<string>two</string>
@@ -270,25 +273,6 @@
 			<string>tmCredit</string>
 			<string>tmAbove</string>
 			<string>tmNumber</string>
-			<string>anusvara</string>
-			<string>sinMatraAa</string>
-			<string>sinMatraAae</string>
-			<string>sinMatraAe</string>
-			<string>sinMatraAi</string>
-			<string>sinMatraAu</string>
-			<string>sinMatraE</string>
-			<string>sinMatraEe</string>
-			<string>sinMatraI</string>
-			<string>sinMatraIi</string>
-			<string>sinMatraLl</string>
-			<string>sinMatraLs</string>
-			<string>sinMatraO</string>
-			<string>sinMatraOo</string>
-			<string>sinMatraR</string>
-			<string>sinMatraRr</string>
-			<string>sinMatraU</string>
-			<string>sinMatraUu</string>
-			<string>sinVirama</string>
 			<string>tmMatraAa</string>
 			<string>tmMatraI.alt1</string>
 			<string>tmMatraI.alt2</string>
@@ -315,6 +299,25 @@
 			<string>tmVirama</string>
 			<string>tmAuLengthmark</string>
 			<string>tmAnusvara</string>
+			<string>anusvara</string>
+			<string>sinMatraAa</string>
+			<string>sinMatraAae</string>
+			<string>sinMatraAe</string>
+			<string>sinMatraAi</string>
+			<string>sinMatraAu</string>
+			<string>sinMatraE</string>
+			<string>sinMatraEe</string>
+			<string>sinMatraI</string>
+			<string>sinMatraIi</string>
+			<string>sinMatraLl</string>
+			<string>sinMatraLs</string>
+			<string>sinMatraO</string>
+			<string>sinMatraOo</string>
+			<string>sinMatraR</string>
+			<string>sinMatraRr</string>
+			<string>sinMatraU</string>
+			<string>sinMatraUu</string>
+			<string>sinVirama</string>
 			<string>visarga</string>
 			<string>sinMatraAa.virama</string>
 			<string>sinMatraI.alt</string>
