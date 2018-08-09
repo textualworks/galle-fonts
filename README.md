@@ -14,3 +14,5 @@ More information, research and documentation [here](http://textual.press/tag/dut
 ## Credits
 
 - Sinhala researched, developed and drawn by Janaka Attanayake with help from Rajitha Manamperi. Design and production consultancy Pathum Egodawatta wtih help assistance from Kosala Senevirthane.
+
+- Tamil is under research and development by Kosala Senevirathne and Thrique Azeez
