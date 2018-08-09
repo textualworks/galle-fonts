@@ -9,3 +9,8 @@ This project started as a side project at Mooniak in 2014 with some help and ins
 In 2017 Mooniak in collaboration with Janaka setup this project to complete the Sinhala typeface and release it under an open license for broader use. In 2018 the Embassy of the Kingdom of the Netherlands in Sri Lanka provided partial funding to expand the project into reviving Tamil typefaces from the Dutch Press. Now the project aims to produce a complete set of Sinhala, Tamil and Latin fonts based on the original types from the Dutch Press in Ceylon.
 
 More information, research and documentation [here](http://textual.press/tag/dutch-press-typography/)
+
+
+## Credits
+
+- Sinhala researched, developed and drawn by Janaka Attanayake with help from Rajitha Manamperi. Design and production consultancy Pathum Egodawatta wtih help assistance from Kosala Senevirthane.
