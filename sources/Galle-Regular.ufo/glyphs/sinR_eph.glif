@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinReph" format="2">
+	<advance width="0"/>
 	<outline>
 		<contour>
 			<point x="-238" y="522"/>

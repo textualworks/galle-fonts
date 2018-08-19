@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
+	<advance width="216" height="216"/>
 	<unicode hex="002E"/>
-	<advance height="216" width="216"/>
 	<outline>
 		<contour>
 			<point x="74" y="33" type="curve" smooth="yes"/>

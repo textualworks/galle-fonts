@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tmNa" format="2">
-	<unicode hex="0BA8"/>
 	<advance width="532"/>
+	<unicode hex="0BA8"/>
+	<outline>
+	</outline>
 	<anchor name="Anchor-0" x="259" y="476"/>
 	<anchor name="Anchor-3" x="252" y="355"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:54:45 +0000</string>
+			<string>2018-08-13 18:59:04 +0000</string>
 			<key>public.markColor</key>
 			<string>0.85,0.26,0.06,1</string>
 		</dict>

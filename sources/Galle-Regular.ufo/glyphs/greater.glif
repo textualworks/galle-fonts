@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
+	<advance width="598" height="598"/>
 	<unicode hex="003E"/>
-	<advance height="598" width="598"/>
 	<outline>
 		<contour>
 			<point x="139" y="108" type="curve" smooth="yes"/>

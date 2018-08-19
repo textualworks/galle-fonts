@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAu" format="2">
+	<advance width="1221" height="1221"/>
 	<unicode hex="0D96"/>
-	<advance height="1221" width="1221"/>
 	<outline>
 		<contour>
 			<point x="384" y="376" type="move"/>

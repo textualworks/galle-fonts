@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LithNine" format="2">
+	<advance width="1052" height="1052"/>
 	<unicode hex="0DEF"/>
-	<advance height="1052" width="1052"/>
 	<outline>
 		<contour>
 			<point x="601" y="519" type="curve" smooth="yes"/>

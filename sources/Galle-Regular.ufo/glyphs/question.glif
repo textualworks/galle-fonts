@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question" format="2">
+	<advance width="613" height="613"/>
 	<unicode hex="003F"/>
-	<advance height="613" width="613"/>
 	<outline>
 		<contour>
 			<point x="114" y="542" type="curve" smooth="yes"/>

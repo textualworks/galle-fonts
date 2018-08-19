@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinM.virama" format="2">
-	<advance height="735" width="735"/>
+	<advance width="735" height="735"/>
 	<outline>
 		<contour>
 			<point x="238" y="361" type="curve" smooth="yes"/>

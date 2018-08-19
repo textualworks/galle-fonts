@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ArchaicEight" format="2">
+	<advance width="1068" height="1068"/>
 	<unicode hex="111E8"/>
-	<advance height="1068" width="1068"/>
 	<outline>
 		<contour>
 			<point x="760" y="-309" type="curve" smooth="yes"/>

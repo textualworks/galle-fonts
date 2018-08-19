@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anusvara" format="2">
+	<advance width="480" height="480"/>
 	<unicode hex="0D82"/>
-	<advance height="480" width="480"/>
 	<outline>
 		<contour>
 			<point x="417" y="176" type="curve" smooth="yes"/>

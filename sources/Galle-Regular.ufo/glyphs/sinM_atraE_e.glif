@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraEe" format="2">
+	<advance width="996" height="996"/>
 	<unicode hex="0DDA"/>
-	<advance height="996" width="996"/>
 	<outline>
 		<component base="sinVirama" xOffset="1000"/>
 		<component base="sinMatraE"/>

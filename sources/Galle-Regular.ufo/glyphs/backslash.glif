@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
+	<advance width="352" height="352"/>
 	<unicode hex="005C"/>
-	<advance height="352" width="352"/>
 	<outline>
 		<contour>
 			<point x="217" y="2" type="curve" smooth="yes"/>

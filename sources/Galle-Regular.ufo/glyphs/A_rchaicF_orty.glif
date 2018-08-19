@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ArchaicForty" format="2">
+	<advance width="1206" height="1206"/>
 	<unicode hex="111ED"/>
-	<advance height="1206" width="1206"/>
 	<outline>
 		<contour>
 			<point x="866" y="350" type="curve" smooth="yes"/>

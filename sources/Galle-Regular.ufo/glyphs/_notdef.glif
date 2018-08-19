@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
-	<advance height="566" width="566"/>
+	<advance width="566" height="566"/>
 	<outline>
 		<contour>
 			<point x="526" y="0" type="curve"/>

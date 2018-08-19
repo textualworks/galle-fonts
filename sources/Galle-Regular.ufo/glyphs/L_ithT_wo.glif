@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LithTwo" format="2">
+	<advance width="1159" height="1159"/>
 	<unicode hex="0DE8"/>
-	<advance height="1159" width="1159"/>
 	<outline>
 		<contour>
 			<point x="485" y="162" type="curve" smooth="yes"/>

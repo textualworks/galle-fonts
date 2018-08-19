@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinkundaliya" format="2">
+	<advance width="2193" height="2193"/>
 	<unicode hex="0DF4"/>
-	<advance height="2193" width="2193"/>
 	<outline>
 		<contour>
 			<point x="1988" y="2" type="curve" smooth="yes"/>

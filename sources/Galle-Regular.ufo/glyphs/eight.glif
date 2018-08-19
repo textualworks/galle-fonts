@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight" format="2">
+	<advance width="481" height="481"/>
 	<unicode hex="0038"/>
-	<advance height="481" width="481"/>
 	<outline>
 		<contour>
 			<point x="238" y="323" type="curve"/>

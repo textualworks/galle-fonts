@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="2">
+	<advance width="295" height="295"/>
 	<unicode hex="0021"/>
-	<advance height="295" width="295"/>
 	<outline>
 		<contour>
 			<point x="117" y="706" type="curve" smooth="yes"/>

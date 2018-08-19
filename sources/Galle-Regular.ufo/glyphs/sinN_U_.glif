@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNU" format="2">
-	<advance height="950" width="950"/>
+	<advance width="950" height="950"/>
 	<outline>
 		<contour>
 			<point x="770" y="-432" type="line" smooth="yes"/>

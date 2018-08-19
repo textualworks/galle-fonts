@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LithThree" format="2">
+	<advance width="1418" height="1418"/>
 	<unicode hex="0DE9"/>
-	<advance height="1418" width="1418"/>
 	<outline>
 		<contour>
 			<point x="992" y="466" type="curve" smooth="yes"/>

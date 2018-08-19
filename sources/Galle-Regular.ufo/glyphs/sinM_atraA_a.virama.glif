@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAa.virama" format="2">
-	<advance height="472" width="472"/>
+	<advance width="472" height="472"/>
 	<outline>
 		<component base="sinVirama" xOffset="480"/>
 		<component base="sinMatraAa"/>

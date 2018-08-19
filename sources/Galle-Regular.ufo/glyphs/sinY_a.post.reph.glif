@@ -64,7 +64,7 @@
 			<point x="279" y="581"/>
 			<point x="358" y="630"/>
 		</contour>
-		<component base="sinYa.post" xOffset="32.2"/>
+		<component base="sinYa.post" xOffset="32.200"/>
 	</outline>
 	<lib>
 		<dict>

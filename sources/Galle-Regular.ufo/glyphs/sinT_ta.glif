@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTta" format="2">
+	<advance width="730" height="730"/>
 	<unicode hex="0DA7"/>
-	<advance height="730" width="730"/>
 	<outline>
 		<contour>
 			<point x="669" y="337" type="curve" smooth="yes"/>
