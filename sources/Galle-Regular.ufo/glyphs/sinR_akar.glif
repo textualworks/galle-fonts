@@ -1,64 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinRakar" format="2">
+	<advance width="301"/>
 	<outline>
 		<contour>
-			<point x="-273" y="-174" type="curve" smooth="yes"/>
-			<point x="-261" y="-113"/>
-			<point x="-260" y="-64"/>
-			<point x="-264" y="-25" type="curve" smooth="yes"/>
-			<point x="-266" y="-3"/>
-			<point x="-277" y="4"/>
-			<point x="-293" y="0" type="curve" smooth="yes"/>
-			<point x="-306" y="-3"/>
-			<point x="-311" y="-17"/>
-			<point x="-309" y="-37" type="curve" smooth="yes"/>
-			<point x="-306" y="-64"/>
-			<point x="-303" y="-112"/>
-			<point x="-319" y="-176" type="curve" smooth="yes"/>
-			<point x="-351" y="-306"/>
-			<point x="-474" y="-386"/>
-			<point x="-611" y="-386" type="curve" smooth="yes"/>
-			<point x="-627" y="-386"/>
-			<point x="-645" y="-386"/>
-			<point x="-664" y="-383" type="curve" smooth="yes"/>
-			<point x="-683" y="-380"/>
-			<point x="-695" y="-384"/>
-			<point x="-698" y="-398" type="curve" smooth="yes"/>
-			<point x="-701" y="-411"/>
-			<point x="-696" y="-425"/>
-			<point x="-675" y="-430" type="curve" smooth="yes"/>
-			<point x="-658" y="-434"/>
-			<point x="-632" y="-434"/>
-			<point x="-614" y="-434" type="curve" smooth="yes"/>
-			<point x="-449" y="-432"/>
-			<point x="-304" y="-332"/>
+			<point x="283" y="-17" type="curve" smooth="yes"/>
+			<point x="284" y="-25"/>
+			<point x="285" y="-35"/>
+			<point x="285" y="-44" type="curve" smooth="yes"/>
+			<point x="285" y="-181"/>
+			<point x="187" y="-267"/>
+			<point x="54" y="-267" type="curve" smooth="yes"/>
+			<point x="48" y="-267"/>
+			<point x="40" y="-267"/>
+			<point x="33" y="-265" type="curve" smooth="yes"/>
+			<point x="15" y="-262"/>
+			<point x="15" y="-236"/>
+			<point x="39" y="-236" type="curve" smooth="yes"/>
+			<point x="44" y="-236"/>
+			<point x="49" y="-237"/>
+			<point x="54" y="-237" type="curve" smooth="yes"/>
+			<point x="170" y="-237"/>
+			<point x="254" y="-165"/>
+			<point x="254" y="-44" type="curve" smooth="yes"/>
+			<point x="254" y="-36"/>
+			<point x="254" y="-29"/>
+			<point x="253" y="-22" type="curve" smooth="yes"/>
+			<point x="251" y="6"/>
+			<point x="279" y="6"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-338</integer>
-						<key>width</key>
-						<integer>48</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-49</integer>
-						<key>width</key>
-						<integer>46</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:07:06 +0000</string>
+			<string>2018-08-28 02:27:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>.notdef</key>
-		<string>_notdef.glif</string>
 		<key>ArchaicEight</key>
 		<string>A_rchaicE_ight.glif</string>
 		<key>ArchaicEighty</key>
@@ -66,6 +64,8 @@
 		<string>L_ithT_wo.glif</string>
 		<key>LithZero</key>
 		<string>L_ithZ_ero.glif</string>
+		<key>NULL</key>
+		<string>N_U_L_L_.glif</string>
 		<key>anusvara</key>
 		<string>anusvara.glif</string>
 		<key>asciicircum</key>
@@ -112,6 +112,8 @@
 		<string>less.glif</string>
 		<key>nine</key>
 		<string>nine.glif</string>
+		<key>notdef</key>
+		<string>notdef.glif</string>
 		<key>null</key>
 		<string>null.glif</string>
 		<key>numbersign</key>

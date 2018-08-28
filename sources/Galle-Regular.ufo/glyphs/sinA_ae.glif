@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAae" format="2">
 	<unicode hex="0D88"/>
-	<advance width="1509"/>
+	<advance width="952"/>
 	<outline>
-		<component base="sinMatraAae" xOffset="735"/>
-		<component base="sinA"/>
+		<component base="sinMatraAae" xOffset="490"/>
+		<component base="sinA" xOffset="12"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinMatraAae</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinA</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:33:37 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,90 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraEe" format="2">
 	<unicode hex="0DDA"/>
-	<advance height="996" width="996"/>
+	<advance width="834"/>
 	<outline>
-		<component base="sinVirama" xOffset="1000"/>
+		<component base="sinVirama" xOffset="617"/>
 		<component base="sinMatraE"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-34</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>581</integer>
-						<key>width</key>
-						<integer>141</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1309</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1898</integer>
-						<key>width</key>
-						<integer>106</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2035</integer>
-						<key>width</key>
-						<integer>140</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-37</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>520</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>525</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>783</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>915</integer>
-						<key>width</key>
-						<integer>239</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1552</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:27:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>

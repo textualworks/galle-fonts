@@ -1,65 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAa.virama" format="2">
-	<advance height="472" width="472"/>
+	<advance width="419"/>
 	<outline>
-		<component base="sinVirama" xOffset="480"/>
+		<component base="sinVirama" xOffset="64"/>
 		<component base="sinMatraAa"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>24</integer>
-						<key>width</key>
-						<integer>129</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1350</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1898</integer>
-						<key>width</key>
-						<integer>106</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>-106</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>-46</integer>
-						<key>width</key>
-						<integer>133</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>152</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>519</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:27:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>

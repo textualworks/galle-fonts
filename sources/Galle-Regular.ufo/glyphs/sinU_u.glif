@@ -1,151 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinUu" format="2">
 	<unicode hex="0D8C"/>
-	<advance width="1129"/>
+	<advance width="666"/>
 	<outline>
 		<component base="sinU"/>
-		<component base="sinMatraLs" xOffset="637"/>
+		<component base="sinMatraLs" xOffset="401"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>12</integer>
-						<key>width</key>
-						<integer>100</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>22</integer>
-						<key>width</key>
-						<integer>82</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>498</integer>
-						<key>width</key>
-						<integer>82</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>657</integer>
-						<key>width</key>
-						<integer>75</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>849</integer>
-						<key>width</key>
-						<integer>91</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1137</integer>
-						<key>width</key>
-						<integer>98</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1236</integer>
-						<key>width</key>
-						<integer>75</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1756</integer>
-						<key>width</key>
-						<integer>87</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>1488</integer>
-						<key>width</key>
-						<integer>84</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1993</integer>
-						<key>width</key>
-						<integer>90</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2265</integer>
-						<key>width</key>
-						<integer>153</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2523</integer>
-						<key>width</key>
-						<integer>84</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2849</integer>
-						<key>width</key>
-						<integer>90</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>4690</integer>
-						<key>width</key>
-						<integer>87</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>4990</integer>
-						<key>width</key>
-						<integer>81</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>5082</integer>
-						<key>width</key>
-						<integer>82</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>5145</integer>
-						<key>width</key>
-						<integer>128</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>5549</integer>
-						<key>width</key>
-						<integer>210</integer>
-					</dict>
-				</array>
-			</dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinU</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinMatraLs</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:27:44 +0000</string>
 		</dict>
 	</lib>
 </glyph>

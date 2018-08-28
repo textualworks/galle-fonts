@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinFUu.reph" format="2">
-	<advance width="900"/>
+	<advance width="548"/>
 	<outline>
-		<component base="sinReph" xOffset="700" yOffset="40"/>
-		<component base="sinFUu"/>
+		<component base="sinReph" xOffset="110"/>
+		<component base="sinFUu" xOffset="19"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinReph</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinFUu</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:52:53 +0000</string>
 		</dict>
 	</lib>
 </glyph>

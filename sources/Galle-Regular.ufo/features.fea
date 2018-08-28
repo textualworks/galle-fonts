@@ -174,13 +174,6 @@ feature akhn {
 } sin_akhands;
 } akhn;
 
-feature rphf {
-  script sinh;
-	lookup sin_reph {
-    sub sinRa sinVirama zerowidthjoiner by sinReph;
-	} sin_reph;
-} rphf;
-
 feature vatu {
   script sinh;
    lookup sin_yansaya {
@@ -217,15 +210,7 @@ feature vatu {
 	} sin_rakar;
 } vatu;
 
-feature pstf {
-  script sinh;
-	lookup sin_split_matra {
-  sub sinMatraEe by sinVirama;
-  sub sinMatraO by sinMatraAa;
-  sub sinMatraOo by sinMatraAa.virama;
-  sub sinMatraAu by sinMatraLs;
-} sin_split_matra;
-} pstf;
+
 
 feature abvs {
 script sinh;
@@ -386,6 +371,7 @@ lookup sin_abvs {
   sub	sinDDha	sinMatraIi	by	sinDDhIi;
   sub	sinTtTtha	sinMatraIi	by	sinTtTthIi;
 } sin_abvs;
+
 lookup sin_virama_1 {
   sub sinMatraAa sinVirama by sinMatraAa.virama;
   sub sinKa sinVirama by sinK.virama;

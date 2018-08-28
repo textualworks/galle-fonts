@@ -1,108 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBRa" format="2">
-	<advance height="816" width="816"/>
+	<advance width="465"/>
 	<outline>
 		<contour>
-			<point x="680" y="-174" type="curve" smooth="yes"/>
-			<point x="692" y="-113"/>
-			<point x="693" y="-64"/>
-			<point x="689" y="-25" type="curve" smooth="yes"/>
-			<point x="687" y="-3"/>
-			<point x="676" y="4"/>
-			<point x="660" y="0" type="curve" smooth="yes"/>
-			<point x="647" y="-3"/>
-			<point x="642" y="-17"/>
-			<point x="644" y="-37" type="curve" smooth="yes"/>
-			<point x="647" y="-64"/>
-			<point x="650" y="-112"/>
-			<point x="634" y="-176" type="curve" smooth="yes"/>
-			<point x="602" y="-306"/>
-			<point x="479" y="-386"/>
-			<point x="342" y="-386" type="curve" smooth="yes"/>
-			<point x="326" y="-386"/>
-			<point x="308" y="-386"/>
-			<point x="289" y="-383" type="curve" smooth="yes"/>
-			<point x="270" y="-380"/>
-			<point x="258" y="-384"/>
-			<point x="255" y="-398" type="curve" smooth="yes"/>
-			<point x="252" y="-411"/>
-			<point x="257" y="-425"/>
-			<point x="278" y="-430" type="curve" smooth="yes"/>
-			<point x="295" y="-434"/>
-			<point x="321" y="-434"/>
-			<point x="339" y="-434" type="curve" smooth="yes"/>
-			<point x="504" y="-432"/>
-			<point x="649" y="-332"/>
+			<point x="402" y="-107" type="curve" smooth="yes"/>
+			<point x="409" y="-70"/>
+			<point x="410" y="-40"/>
+			<point x="407" y="-15" type="curve" smooth="yes"/>
+			<point x="406" y="-2"/>
+			<point x="399" y="2"/>
+			<point x="390" y="0" type="curve" smooth="yes"/>
+			<point x="381" y="-2"/>
+			<point x="378" y="-10"/>
+			<point x="380" y="-23" type="curve" smooth="yes"/>
+			<point x="381" y="-40"/>
+			<point x="383" y="-69"/>
+			<point x="373" y="-109" type="curve" smooth="yes"/>
+			<point x="354" y="-189"/>
+			<point x="278" y="-239"/>
+			<point x="193" y="-239" type="curve" smooth="yes"/>
+			<point x="183" y="-239"/>
+			<point x="172" y="-238"/>
+			<point x="160" y="-236" type="curve" smooth="yes"/>
+			<point x="149" y="-235"/>
+			<point x="142" y="-237"/>
+			<point x="140" y="-246" type="curve" smooth="yes"/>
+			<point x="138" y="-254"/>
+			<point x="141" y="-262"/>
+			<point x="154" y="-265" type="curve" smooth="yes"/>
+			<point x="164" y="-268"/>
+			<point x="180" y="-268"/>
+			<point x="191" y="-268" type="curve" smooth="yes"/>
+			<point x="293" y="-267"/>
+			<point x="383" y="-205"/>
 		</contour>
 		<component base="sinBa"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>137</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>525</integer>
-						<key>width</key>
-						<integer>144</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1247</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2068</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>117</integer>
-						<key>width</key>
-						<integer>119</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>705</integer>
-						<key>width</key>
-						<integer>123</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>956</integer>
-						<key>width</key>
-						<integer>156</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1154</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1926</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 01:07:06 +0000</string>
+			<string>2018-08-28 02:27:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,117 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAu" format="2">
 	<unicode hex="0D96"/>
-	<advance height="1221" width="1221"/>
+	<advance width="744"/>
 	<outline>
 		<contour>
-			<point x="384" y="376" type="move"/>
+			<point x="237" y="232" type="move"/>
 		</contour>
 		<component base="sinO"/>
-		<component base="sinMatraLs" xOffset="731"/>
+		<component base="sinMatraLs" xOffset="471"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.fontlab.hintData</key>
-			<dict>
-				<key>hhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>0</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>573</integer>
-						<key>width</key>
-						<integer>128</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>626</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>800</integer>
-						<key>width</key>
-						<integer>120</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1088</integer>
-						<key>width</key>
-						<integer>114</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1320</integer>
-						<key>width</key>
-						<integer>128</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2055</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-				</array>
-				<key>vhints</key>
-				<array>
-					<dict>
-						<key>position</key>
-						<integer>81</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>519</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1034</integer>
-						<key>width</key>
-						<integer>116</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>1926</integer>
-						<key>width</key>
-						<integer>135</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2203</integer>
-						<key>width</key>
-						<integer>121</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2272</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2643</integer>
-						<key>width</key>
-						<integer>129</integer>
-					</dict>
-					<dict>
-						<key>position</key>
-						<integer>2834</integer>
-						<key>width</key>
-						<integer>132</integer>
-					</dict>
-				</array>
-			</dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:27:43 +0000</string>
 		</dict>
 	</lib>
 </glyph>

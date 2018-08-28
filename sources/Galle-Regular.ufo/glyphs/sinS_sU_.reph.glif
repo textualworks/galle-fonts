@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSsU.reph" format="2">
-	<advance width="773"/>
+	<advance width="494"/>
 	<outline>
-		<component base="sinReph"/>
-		<component base="sinSsU"/>
+		<component base="sinReph" xOffset="80"/>
+		<component base="sinSsU" xOffset="29"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-08-04 00:59:56 +0000</string>
+			<string>2018-08-28 02:40:55 +0000</string>
 		</dict>
 	</lib>
 </glyph>
