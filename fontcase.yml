@@ -1,0 +1,16 @@
+---
+FontcasePackageVersion: 0.1
+FontcasePackage:
+  name: Galle Font #MUST
+  display-string: දැරණියගලට ඉහල <span>අහසේ දඟකරන</span> වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ. #HTMLMUST
+  license: OFL-1.1 #MAY: https://spdx.org/licenses/ expression or URL, default to font file version
+  status: ALPHA #MUST
+  notes:
+    - familyStyles: 25 #/100
+    - characterSet: 25
+    - drawingQuality: 40
+    - spacing: 25
+    - kerning: 0
+    - hinting: 20
+    - openTypeFeatures: 50
+  versions:

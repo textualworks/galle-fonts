@@ -9,7 +9,6 @@ typeface family:
   - decorative
   repository url: https://github.com/mooniak/galle-fonts
   project url: http://mooniak.com/ceylon-dutch-press/
-  project status: alpha
   tools:
   - Fontforge
   - fontmake
